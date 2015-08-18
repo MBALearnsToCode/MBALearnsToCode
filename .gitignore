@@ -60,5 +60,6 @@ target/
 *.iml
 .idea/
 
-# exclude site folder
+# exclude site folder & deploy script
+deploy.sh
 site/
