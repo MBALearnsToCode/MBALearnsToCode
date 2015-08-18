@@ -77,12 +77,12 @@
         }, 
         {
             "location": "/contactMe/", 
-            "text": "Contact Me\n\n\n\n\n\n\nEmail\n me\n\n\n\n\n\n\nLinkedIn\n me\n\n\n\n\n\n\nFacebook\n me", 
+            "text": "Contact Me\n\n\n\n\n\n\nEmail\n me\n\n\n\n\n\n\nLinkedIn\n me\n\n\n\n\n\n\nGitHub\n-follow me\n\n\n\n\n\n\nFacebook\n me", 
             "title": "<i class=\"fa fa-pencil-square-o\"></i> contactMe"
         }, 
         {
             "location": "/contactMe/#contact-me", 
-            "text": "Email  me    LinkedIn  me    Facebook  me", 
+            "text": "Email  me    LinkedIn  me    GitHub -follow me    Facebook  me", 
             "title": "Contact Me"
         }
     ]
