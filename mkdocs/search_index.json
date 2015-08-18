@@ -23,7 +23,7 @@
         {
             "location": "/myCodingRepertoire/", 
             "text": "My Coding Repertoire\n\n\nMachine Learning / Artificial Intelligence / Data Science / Large-Scale Computation\n\n\n\n\nPython\n\n\nR\n\n\nJulia\n\n\nMatlab\n / \nOctave\n\n\nSQL\n\n\nTheano\n\n\nApache Spark\n\n\nElasticSearch\n\n\n\n\nApp Development\n\n\n\n\nPython Django\n\n\nRuby-on-Rails\n\n\nHTML\n\n\nCSS\n\n\nJavaScript\n\n\n\n\nAmazon Web Services\n\n\n\n\nElastic Beanstalk\n\n\nElastic Compute Cloud\n (\nEC2\n)\n\n\nRelational Database Service\n (\nRDS\n)\n\n\nRoute 53\n\n\nScalable Storage Service\n (\nS3\n)\n\n\n\n\nOther Cloud Computing\n\n\n\n\nHeroku\n\n\n\n\nVisualization\n\n\n\n\nBokeh\n\n\n\n\nTechnical Documentation\n\n\n\n\nLaTeX\n\n\nMarkdown\n\n\nYAML\n\n\nPandoc\n\n\nMkDocs\n\n\n\n\nVersion Control\n\n\n\n\nGit\n\n\nGitHub\n\n\nBitBucket\n\n\nSourceTree\n\n\n\n\nText Editors / Integrated Development Environments (IDEs) / Collaborative Coding\n\n\n\n\nJetBrains IntelliJ IDEA\n\n\nRStudio\n\n\nSublime Text\n\n\nFloobits\n\n\n\n\nProject Management\n\n\n\n\nAsana\n\n\nConfluence\n\n\n\n\nThose-Were-the-Days\n Obsolete Stuff...\n\n\n\n\nPascal", 
-            "title": "<i class=\"icon-terminal\"></i> myCodingRepertoire"
+            "title": "<i class=\"fa fa-terminal\"></i> myCodingRepertoire"
         }, 
         {
             "location": "/myCodingRepertoire/#my-coding-repertoire", 
@@ -128,7 +128,7 @@
         {
             "location": "/contactMe/", 
             "text": "Contact Me\n\n\n\n\n\n\n \nEmail\n me\n\n\n\n\n\n\n \nLinkedIn\n me\n\n\n\n\n\n\n \nGitHub\n-follow me\n\n\n\n\n\n\n \nFacebook\n me", 
-            "title": "<i class=\"fa fa-pencil-square-o\"></i> contactMe"
+            "title": "<i class=\"fa fa-info-circle\"></i> contactMe"
         }, 
         {
             "location": "/contactMe/#contact-me", 
