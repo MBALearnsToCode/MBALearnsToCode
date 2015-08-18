@@ -127,12 +127,12 @@
         }, 
         {
             "location": "/contactMe/", 
-            "text": "Contact Me\n\n\n \nEmail\n(\\\nme>)\n\n\n \nLinkedIn\n(\\\nme>)\n\n\n \nGitHub\n-follow(\\\nme>)\n\n\n \nFacebook\n(\\\nme>)", 
-            "title": "<i class=\"fa fa-info-circle\"></i> contact(\\<me\\>)"
+            "text": "Contact Me\n\n\n \nEmail\n(\nme>)\n\n\n \nLinkedIn\n(\nme>)\n\n\n \nGitHub\n-follow(\nme>)\n\n\n \nFacebook\n(\nme>)", 
+            "title": "<i class=\"fa fa-info-circle\"></i> contact(<me\\>)"
         }, 
         {
             "location": "/contactMe/#contact-me", 
-            "text": "Email (\\ me>)    LinkedIn (\\ me>)    GitHub -follow(\\ me>)    Facebook (\\ me>)", 
+            "text": "Email ( me>)    LinkedIn ( me>)    GitHub -follow( me>)    Facebook ( me>)", 
             "title": "Contact Me"
         }
     ]
