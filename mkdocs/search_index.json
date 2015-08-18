@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/myRepertoire/_whats_in_here/", 
-            "text": "My Coding Repertoire\n\n\nMachine Learning / Artificial Intelligence / Data Science\n\n\n\n\nPython\n\n\nR\n\n\nJulia\n\n\nMatlab / Octave\n\n\nSQL\n\n\n\n\nApp Development\n\n\n\n\nPython Django\n\n\nRuby-on-Rails", 
+            "text": "My Coding Repertoire\n\n\nMachine Learning / Artificial Intelligence / Data Science / Large-Scale Computation\n\n\n\n\nPython\n\n\nR\n\n\nJulia\n\n\nMatlab\n / \nOctave\n\n\nSQL\n\n\nTheano\n\n\nApache Spark\n\n\nElasticSearch\n\n\n\n\nApp Development\n\n\n\n\nPython Django\n\n\nRuby-on-Rails\n\n\nHTML\n\n\nCSS\n\n\nJavaScript\n\n\n\n\nAmazon Web Services\n\n\n\n\nElastic Beanstalk\n\n\nElastic Compute Cloud\n (\nEC2\n)\n\n\nRelational Database Service\n (\nRDS\n)\n\n\nRoute 53\n\n\nScalable Storage Service\n (\nS3\n)\n\n\n\n\nOther Cloud Computing\n\n\n\n\nHeroku\n\n\n\n\nVisualization\n\n\n\n\nBokeh\n\n\n\n\nTechnical Documentation\n\n\n\n\nLaTeX\n\n\nMarkdown\n\n\nYAML\n\n\nPandoc\n\n\nMkDocs\n\n\n\n\nVersion Control\n\n\n\n\nGit\n\n\nGitHub\n\n\nBitBucket\n\n\nSourceTree\n\n\n\n\nText Editors / Integrated Development Environments (IDEs) / Collaborative Coding\n\n\n\n\nJetBrains IntelliJ IDEA\n\n\nRStudio\n\n\nSublime Text\n\n\nFloobits\n\n\n\n\nOther Supporting Tools\n\n\n\n\nAsana\n\n\nConfluence\n\n\n\n\nThose-Were-the-Days Obsolete Stuff...\n\n\n\n\nPascal", 
             "title": "<i class=\"fa fa-chevron-down\"></i>"
         }, 
         {
@@ -41,14 +41,54 @@
             "title": "My Coding Repertoire"
         }, 
         {
-            "location": "/myRepertoire/_whats_in_here/#machine-learning-artificial-intelligence-data-science", 
-            "text": "Python  R  Julia  Matlab / Octave  SQL", 
-            "title": "Machine Learning / Artificial Intelligence / Data Science"
+            "location": "/myRepertoire/_whats_in_here/#machine-learning-artificial-intelligence-data-science-large-scale-computation", 
+            "text": "Python  R  Julia  Matlab  /  Octave  SQL  Theano  Apache Spark  ElasticSearch", 
+            "title": "Machine Learning / Artificial Intelligence / Data Science / Large-Scale Computation"
         }, 
         {
             "location": "/myRepertoire/_whats_in_here/#app-development", 
-            "text": "Python Django  Ruby-on-Rails", 
+            "text": "Python Django  Ruby-on-Rails  HTML  CSS  JavaScript", 
             "title": "App Development"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#amazon-web-services", 
+            "text": "Elastic Beanstalk  Elastic Compute Cloud  ( EC2 )  Relational Database Service  ( RDS )  Route 53  Scalable Storage Service  ( S3 )", 
+            "title": "Amazon Web Services"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#other-cloud-computing", 
+            "text": "Heroku", 
+            "title": "Other Cloud Computing"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#visualization", 
+            "text": "Bokeh", 
+            "title": "Visualization"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#technical-documentation", 
+            "text": "LaTeX  Markdown  YAML  Pandoc  MkDocs", 
+            "title": "Technical Documentation"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#version-control", 
+            "text": "Git  GitHub  BitBucket  SourceTree", 
+            "title": "Version Control"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#text-editors-integrated-development-environments-ides-collaborative-coding", 
+            "text": "JetBrains IntelliJ IDEA  RStudio  Sublime Text  Floobits", 
+            "title": "Text Editors / Integrated Development Environments (IDEs) / Collaborative Coding"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#other-supporting-tools", 
+            "text": "Asana  Confluence", 
+            "title": "Other Supporting Tools"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#those-were-the-days-obsolete-stuff", 
+            "text": "Pascal", 
+            "title": "Those-Were-the-Days Obsolete Stuff..."
         }, 
         {
             "location": "/myRepertoire/machineLearning_dataSci/", 
@@ -57,7 +97,7 @@
         }, 
         {
             "location": "/myRepertoire/_whats_in_here/", 
-            "text": "My Coding Repertoire\n\n\nMachine Learning / Artificial Intelligence / Data Science\n\n\n\n\nPython\n\n\nR\n\n\nJulia\n\n\nMatlab / Octave\n\n\nSQL\n\n\n\n\nApp Development\n\n\n\n\nPython Django\n\n\nRuby-on-Rails", 
+            "text": "My Coding Repertoire\n\n\nMachine Learning / Artificial Intelligence / Data Science / Large-Scale Computation\n\n\n\n\nPython\n\n\nR\n\n\nJulia\n\n\nMatlab\n / \nOctave\n\n\nSQL\n\n\nTheano\n\n\nApache Spark\n\n\nElasticSearch\n\n\n\n\nApp Development\n\n\n\n\nPython Django\n\n\nRuby-on-Rails\n\n\nHTML\n\n\nCSS\n\n\nJavaScript\n\n\n\n\nAmazon Web Services\n\n\n\n\nElastic Beanstalk\n\n\nElastic Compute Cloud\n (\nEC2\n)\n\n\nRelational Database Service\n (\nRDS\n)\n\n\nRoute 53\n\n\nScalable Storage Service\n (\nS3\n)\n\n\n\n\nOther Cloud Computing\n\n\n\n\nHeroku\n\n\n\n\nVisualization\n\n\n\n\nBokeh\n\n\n\n\nTechnical Documentation\n\n\n\n\nLaTeX\n\n\nMarkdown\n\n\nYAML\n\n\nPandoc\n\n\nMkDocs\n\n\n\n\nVersion Control\n\n\n\n\nGit\n\n\nGitHub\n\n\nBitBucket\n\n\nSourceTree\n\n\n\n\nText Editors / Integrated Development Environments (IDEs) / Collaborative Coding\n\n\n\n\nJetBrains IntelliJ IDEA\n\n\nRStudio\n\n\nSublime Text\n\n\nFloobits\n\n\n\n\nOther Supporting Tools\n\n\n\n\nAsana\n\n\nConfluence\n\n\n\n\nThose-Were-the-Days Obsolete Stuff...\n\n\n\n\nPascal", 
             "title": "appDev"
         }, 
         {
@@ -66,14 +106,54 @@
             "title": "My Coding Repertoire"
         }, 
         {
-            "location": "/myRepertoire/_whats_in_here/#machine-learning-artificial-intelligence-data-science", 
-            "text": "Python  R  Julia  Matlab / Octave  SQL", 
-            "title": "Machine Learning / Artificial Intelligence / Data Science"
+            "location": "/myRepertoire/_whats_in_here/#machine-learning-artificial-intelligence-data-science-large-scale-computation", 
+            "text": "Python  R  Julia  Matlab  /  Octave  SQL  Theano  Apache Spark  ElasticSearch", 
+            "title": "Machine Learning / Artificial Intelligence / Data Science / Large-Scale Computation"
         }, 
         {
             "location": "/myRepertoire/_whats_in_here/#app-development", 
-            "text": "Python Django  Ruby-on-Rails", 
+            "text": "Python Django  Ruby-on-Rails  HTML  CSS  JavaScript", 
             "title": "App Development"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#amazon-web-services", 
+            "text": "Elastic Beanstalk  Elastic Compute Cloud  ( EC2 )  Relational Database Service  ( RDS )  Route 53  Scalable Storage Service  ( S3 )", 
+            "title": "Amazon Web Services"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#other-cloud-computing", 
+            "text": "Heroku", 
+            "title": "Other Cloud Computing"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#visualization", 
+            "text": "Bokeh", 
+            "title": "Visualization"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#technical-documentation", 
+            "text": "LaTeX  Markdown  YAML  Pandoc  MkDocs", 
+            "title": "Technical Documentation"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#version-control", 
+            "text": "Git  GitHub  BitBucket  SourceTree", 
+            "title": "Version Control"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#text-editors-integrated-development-environments-ides-collaborative-coding", 
+            "text": "JetBrains IntelliJ IDEA  RStudio  Sublime Text  Floobits", 
+            "title": "Text Editors / Integrated Development Environments (IDEs) / Collaborative Coding"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#other-supporting-tools", 
+            "text": "Asana  Confluence", 
+            "title": "Other Supporting Tools"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#those-were-the-days-obsolete-stuff", 
+            "text": "Pascal", 
+            "title": "Those-Were-the-Days Obsolete Stuff..."
         }, 
         {
             "location": "/learningResources/_whats_in_here/", 
