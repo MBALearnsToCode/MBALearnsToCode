@@ -76,9 +76,14 @@
             "title": "pyDjango"
         }, 
         {
-            "location": "/toolRoom/rubyRails/", 
-            "text": "", 
-            "title": "rubyRails"
+            "location": "/contactMe/", 
+            "text": "Contact Me\n\n\nEmail\n me\n\n\nLinkedIn\n me\n\n\nFacebook\n me", 
+            "title": "<i class=\"fa fa-pencil-square-o\"></i> contactMe"
+        }, 
+        {
+            "location": "/contactMe/#contact-me", 
+            "text": "Email  me  LinkedIn  me  Facebook  me", 
+            "title": "Contact Me"
         }
     ]
 }
