@@ -92,18 +92,18 @@
         }, 
         {
             "location": "/myLearningResources/_whats_in_here/", 
-            "text": "Learning Resources need\n\n\n\n\nR\n\n\nPython\n\n\nTheano\n\n\nScikit Learn", 
+            "text": "My Learning Resources", 
             "title": "<i class=\"fa fa-chevron-down\"></i>"
         }, 
         {
-            "location": "/myLearningResources/_whats_in_here/#learning-resources-need", 
-            "text": "R  Python  Theano  Scikit Learn", 
-            "title": "Learning Resources need"
+            "location": "/myLearningResources/_whats_in_here/#my-learning-resources", 
+            "text": "", 
+            "title": "My Learning Resources"
         }, 
         {
             "location": "/myLearningResources/chicagoBoothAnalyticsClub_learningResources/", 
-            "text": "Data Science Learning Resources by Chicago Booth Analytics Club\n\n\nChicago Booth Analytics Club\n, which I co-founded in early 2015, maintains and constantly updates a uber-comprehensive \nData Science Learning Resources Catalog\n.\n\n\nMuch sweat has been shed to compile this awesome catalog, and we figure we'd do much good to the world by opening it up for everyone interested to see.", 
-            "title": "chicagoBoothAnalyticsClub_learningResources"
+            "text": "Data Science Learning Resources\n by Chicago Booth Analytics Club\n\n\nChicago Booth Analytics Club\n, which I co-founded in early 2015, maintains and constantly updates a uber-comprehensive \nData Science Learning Resources Catalog\n.\n\n\nMuch sweat has been shed to compile this awesome catalog, and we figure we'd do much good to the world by opening it up for everyone interested to see.", 
+            "title": "Data Science Learning Resources by Chicago Booth Analytics Club"
         }, 
         {
             "location": "/myLearningResources/chicagoBoothAnalyticsClub_learningResources/#data-science-learning-resources-by-chicago-booth-analytics-club", 
