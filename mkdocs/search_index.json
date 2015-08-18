@@ -31,14 +31,49 @@
             "title": "What, Why?"
         }, 
         {
+            "location": "/myRepertoire/_whats_in_here/", 
+            "text": "My Coding Repertoire\n\n\nMachine Learning / Artificial Intelligence / Data Science\n\n\n\n\nPython\n\n\nR\n\n\nJulia\n\n\nMatlab / Octave\n\n\nSQL\n\n\n\n\nApp Development\n\n\n\n\nPython Django\n\n\nRuby-on-Rails", 
+            "title": "<i class=\"fa fa-chevron-down\"></i>"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#my-coding-repertoire", 
+            "text": "", 
+            "title": "My Coding Repertoire"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#machine-learning-artificial-intelligence-data-science", 
+            "text": "Python  R  Julia  Matlab / Octave  SQL", 
+            "title": "Machine Learning / Artificial Intelligence / Data Science"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#app-development", 
+            "text": "Python Django  Ruby-on-Rails", 
+            "title": "App Development"
+        }, 
+        {
             "location": "/myRepertoire/machineLearning_dataSci/", 
             "text": "", 
             "title": "machineLearning_dataSci"
         }, 
         {
             "location": "/myRepertoire/_whats_in_here/", 
-            "text": "", 
+            "text": "My Coding Repertoire\n\n\nMachine Learning / Artificial Intelligence / Data Science\n\n\n\n\nPython\n\n\nR\n\n\nJulia\n\n\nMatlab / Octave\n\n\nSQL\n\n\n\n\nApp Development\n\n\n\n\nPython Django\n\n\nRuby-on-Rails", 
             "title": "appDev"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#my-coding-repertoire", 
+            "text": "", 
+            "title": "My Coding Repertoire"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#machine-learning-artificial-intelligence-data-science", 
+            "text": "Python  R  Julia  Matlab / Octave  SQL", 
+            "title": "Machine Learning / Artificial Intelligence / Data Science"
+        }, 
+        {
+            "location": "/myRepertoire/_whats_in_here/#app-development", 
+            "text": "Python Django  Ruby-on-Rails", 
+            "title": "App Development"
         }, 
         {
             "location": "/learningResources/_whats_in_here/", 
