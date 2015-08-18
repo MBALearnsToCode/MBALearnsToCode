@@ -127,7 +127,7 @@
         }, 
         {
             "location": "/contactMe/", 
-            "text": "contact(\nme\n)\n\n\n \nEmail\n(\nmbaLearnsToCode\n)\n\n\n \nLinkedIn\n(\nmbaLearnsToCode\n)\n\n\n \nGitHub\n-follow(\nmbaLearnsToCode\n)\n\n\n \nFacebook\n(\nmbaLearnsToCode\n)", 
+            "text": "contact(\nme\n)\n\n\n \nEmail\n(\nmbaLearnsToCode\n)\n\n\n \nLinkedIn\n.connect\n(\nmbaLearnsToCode\n)\n\n\n \nGitHub\n.follow\n(\nmbaLearnsToCode\n)\n\n\n \nFacebook\n.add_friend\n(\nmbaLearnsToCode\n)", 
             "title": "<i class=\"fa fa-info-circle\"></i> contact(me)"
         }
     ]
