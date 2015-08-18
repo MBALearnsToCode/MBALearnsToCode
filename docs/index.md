@@ -7,11 +7,11 @@
 
 ## *Eine kleine* Icebreaker
 
-Hi there.
+Hi there. :)
 
-By day, I am **Vinh**, a dizzily-busy, multitaskingly-distracted, overly-committed MBA student at Chicago Booth and young dad with a toddling little boss.
+By day, I am **Vinh**, a dizzily-busy, multitaskingly-distracted, overly-committed full-time MBA student at Chicago Booth and young dad with a toddling little boss.
 
-Come the quiet of the night, and I turn into **`mbaLearnsToCode`**, furiously *committing* (word pun totally intended) snippets of code to my repositories of precious digital nothings on [**GitHub**](https://github.com/mbaLearnsToCode), [**BitBucket**](https://bitbucket.org/MBALearnsToCode) and the [**Python Package Index (PyPI)**](https://pypi.python.org).
+Come the quiet of the night, and I turn into **`mbaLearnsToCode`**, furiously *committing* (word pun totally intended) snippets of computer programming code to my repositories of precious digital nothings on [**GitHub**](https://github.com/mbaLearnsToCode), [**BitBucket**](https://bitbucket.org/MBALearnsToCode) and the [**Python Package Index (PyPI)**](https://pypi.python.org).
 
 I code so that I can:
 
@@ -28,7 +28,7 @@ My [**coding repertoire**](myRepertoire/) includes:
 * Ruby / Rails
 * SQL
 * Pascal *(does anyone know this language anymore??)*, and
-* a bunch of cloud-computing stuff such as Elastic Beanstalk, Route 53, RDS and EC2 by Amazon Web Services *(whose parent company stays afloat probably thanks to my monthly bills)*.
+* a bunch of cloud-computing stuff such as EC2, Elastic Beanstalk, RDS, Route 53 and S3 by Amazon Web Services *(whose parent company stays afloat probably thanks to my monthly bills)*.
 
 
 ## What's Cool Here?
