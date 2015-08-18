@@ -20,7 +20,7 @@
     
         
     <url>
-     <loc>None/blogs/_whats_in_here/</loc>
+     <loc>None/myBlogs/_whats_in_here/</loc>
      <lastmod>2015-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -30,13 +30,13 @@
     
         
     <url>
-     <loc>None/learningResources/_whats_in_here/</loc>
+     <loc>None/myLearningResources/_whats_in_here/</loc>
      <lastmod>2015-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/learningResources/chicagoBoothAnalyticsClub_learningResources/</loc>
+     <loc>None/myLearningResources/chicagoBoothAnalyticsClub_learningResources/</loc>
      <lastmod>2015-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -46,19 +46,19 @@
     
         
     <url>
-     <loc>None/toolRoom/_whats_in_here/</loc>
+     <loc>None/myToolRoom/_whats_in_here/</loc>
      <lastmod>2015-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/toolRoom/py/</loc>
+     <loc>None/myToolRoom/py/</loc>
      <lastmod>2015-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/toolRoom/pyDjango/</loc>
+     <loc>None/myToolRoom/pyDjango/</loc>
      <lastmod>2015-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
