@@ -1,0 +1,12 @@
+.img {
+    object-fit: contain;
+}
+
+.repertoire {
+    text-align: center;
+}
+
+.repertoire-image {
+    width: 68px;
+    height: 68px;
+}
