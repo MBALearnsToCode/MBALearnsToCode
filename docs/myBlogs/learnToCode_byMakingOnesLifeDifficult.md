@@ -1,0 +1,1 @@
+# Learn to Code: by Making One's Life Difficult## You've got the ## Make a Series of Consistent, Costly Choices How on Earth As it turns out, in coding, one thing begets another super quickly, and if you are interested in getting anything serious done at all, you'll be forced to know a lot of things.## My Journey
