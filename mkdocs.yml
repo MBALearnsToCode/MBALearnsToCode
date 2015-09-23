@@ -8,7 +8,7 @@ pages:
   - <i class="fa fa-terminal"></i> myCodingRepertoire: 'myCodingRepertoire.md'
   - <i class="fa fa-newspaper-o"></i> myBlogs:
     - <i class="fa fa-chevron-down"></i>: "myBlogs/_myBlogs.md"
-    - 2015-09-21 A Non-Traditional MBA's Mid-point Look-back: 'myBlogs/20150921_MBAMidPointLookBack.md'
+    - 2015-09-24 A Non-Traditional MBA's Mid-point Look-back: 'myBlogs/20150924_NonTraditionalMBAMidPointLookBack.md'
   - <i class="fa fa-book"></i> myLearningResources:
     - <i class="fa fa-chevron-down"></i>: 'myLearningResources/_myLearningResources.md'
     - Data Science Learning Resources by Chicago Booth Analytics Club: 'myLearningResources/chicagoBoothAnalyticsClub_learningResources.md'

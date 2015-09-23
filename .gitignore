@@ -64,6 +64,9 @@ target/
 Icon^M^M
 Icon?
 
+# *.ini files
+*.ini
+
 # exclude site folder & deploy script
 site/
 deploy.sh
