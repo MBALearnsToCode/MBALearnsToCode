@@ -69,4 +69,3 @@ Icon?
 
 # exclude site folder & deploy script
 site/
-deploy.sh
