@@ -15,7 +15,7 @@ work_experience=    ["DATA SCIENTIST / ANALYTICS PRODUCT ARCHITECT
 
 good_deeds=         ["taught Machine Learning to Booth MBA friends",
 
-                     "worked with Booth profs to launch WORLD's-FIRST-of-Its-Kind
+                     "worked with Booth profs to launch WORLD's-FIRST-of-ITS-KIND
                         Machine Learning course for MBAs
                         (ChicagoBoothML.github.io/MachineLearning_Fall2015)",
                      

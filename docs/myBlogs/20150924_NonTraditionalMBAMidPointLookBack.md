@@ -15,7 +15,8 @@ and hence picturing another tsunami of grueling hard work smashing at us.
 
 So, in the one year now well past, besides acquiring Chicagoan/American tastes such as
 sit-on-the-grass outdoor classical/jazz concerts, thousand-mile scenic drives, and apartments that I'd think be enough
-for 10 of us back in Singapore, what have I managed to get done? This blog gives you a year-in-the-life little peep.
+for 10 of us back in Singapore, what have I managed to get done? This blog gives you a year-in-the-life-of-mine
+little peep.
 
 
 ## **TL;DR**
@@ -44,7 +45,7 @@ and general Data Science and Computer Science
     
 - My work in [**all things Machine Learning**](#AllThingsMachineLearning)
     - [**Trial Machine Learning classes**](#TrialMachineLearningClasses) for fellow Booth MBAs
-    - Launching of [**world's first formal Machine Learning class at a leading b-school**](#BoothMachineLearning)
+    - Launching of [**WORLD's FIRST formal Machine Learning class at a leading b-school**](#BoothMachineLearning)
     - [**Data Scientist / Analytics Product Architect**
     @ **disruptive Industrial Internet-of-Things Analytics start-up Uptake, LLC**](#Uptake)
     - [**Some Poker fun with Machine Learning**](#ComputationInstituteHackathon) @ Final night of
@@ -54,9 +55,7 @@ and general Data Science and Computer Science
 
 - What did [**_MBALearnsToCode_**](#MBALearnsToCode) learn to code?
 
-- [**New Venture Challenge**](#NewVentureChallenge)
-
-- Still being a [**family guy**](#FamilyMan)!
+- Road-tripping my domestic bosses to some [**worthwhile places**](#RoadTrips)!
  
 
 ## Being a diligent schoolboy again
@@ -112,6 +111,16 @@ I've managed to complete 13 courses, 2/3 of my degree requirement, including the
     an impressive [Entrepreneurship Essentials](http://CareerAdvancement.UChicago.edu/Entrepreneurship/Essentials)
     workshop series.
     
+    - The _New Venture Challenge_ was certainly the most intense experience.
+    I joined the lab to help out [**Keith Wagner**](http://www.linkedin.com/pub/keith-wagner/34/68/176)
+    with his start-up [**Dynamic Positioning Training Solutions**](http://dptrainingsolutions.com),
+    a New York-based advanced maritime technological training center.
+    
+        _Team [**Maestro**](http://www.maestrofood.co/maestro) topped the 2015 NVC with a smart cooking appliance
+    and a Final pitch of quality bordering on pure theater:_
+    
+        ![](MaestroNVC.png)
+    
     - In my upcoming 2nd year, I am back for more Entrep goodness in **_Building the New Venture_** by
     [Waverly Deutsch](http://www.chicagobooth.edu/faculty/directory/d/Waverly-Deutsch)
     
@@ -123,7 +132,9 @@ that are Booth and UChicago. At Booth, I took **_Big Data_** by rising star
 [Matt Taddy](http://www.chicagobooth.edu/faculty/directory/t/Matt-Taddy).
     - <a name="KaggleAXA"></a>For the final project, I made a fairly creditable attempt at tackling this
     [very big and very wild driving telematics tracking data set on Kaggle.com](http://www.kaggle.com/c/axa-driver-telematics-analysis)
-    hosted by insurance giant AXA. Below were plots showing individual drivers' highly characteristic
+    hosted by insurance giant AXA, who challenged Kaggle competitors to detect individual driving styles from
+    high-frequency series of location coordinates streamed from vehicle-mounted accelerometers.
+    Below were plots showing individual drivers' highly characteristic
     accelerating and turning behaviors detected by my pattern-recognition algorithms:
     
     ![](KaggleAXADrivingStyles.png)
@@ -131,10 +142,9 @@ that are Booth and UChicago. At Booth, I took **_Big Data_** by rising star
     <br>
     
     Another quant must-try was **_Machine Learning & Large-Scale Data Analysis_**
-by UChicago's leading Machine Learning guru [John Lafferty](https://galton.uchicago.edu/~lafferty).
-His course was a sweeping survey with head-cracking math and literally astronomical data sets
-_(e.g. characteristic light curves from dozens of thousands of planets and stars)_.
-More on Lafferty [below](#JohnLafferty).
+by UChicago's leading Machine Learning guru [John Lafferty](https://galton.uchicago.edu/~lafferty)
+(more on him [below](#JohnLafferty)). His course was a sweeping survey with head-cracking math and
+literally astronomical data sets _(e.g. characteristic light curves from dozens of thousands of planets and stars)_.
 
     _Lafferty's homework featured undoubtedly astronomical data transmitted from the Kepler space telescope:_
     ![](JohnLaffertyMLLSDA_Kepler.png)
@@ -144,7 +154,8 @@ More on Lafferty [below](#JohnLafferty).
     <br>
 
 - <a name="UChicagoScienceAndTechCourses"></a>_SCIENCE / TECH COURSES_ in UChicago:
-Booth's flexible curriculum enables me to try out great offerings elsewhere at UChicago's diverse member institutions. 
+Booth's flexible curriculum enables me to try out great offerings elsewhere at UChicago's
+diverse departments and member research institutions. 
 My hands-down favorite was **_Robotics & Artificial Intelligence_** by
 [Matt Walter](http://ttic.uchicago.edu/~mwalter),
 a UIUC- and MIT-trained roboticist and one of the builders of the MIT Self-Driving Car, which
@@ -206,7 +217,7 @@ This course painted a sobering picture explaining why, and how, numerous Analyti
 M&As, and organizations fail &ndash; and pointed out highly practical remedies.
     
     - <a name="McDonaldsAnalytics"></a>For the final project, my teammates and I took a look at
-    analytics at McDonald's and its service providers, seeing how advanced number-crunching is done
+    Analytics at McDonald's and its service providers, seeing how advanced number-crunching is done
     on vast &ndash; _really vast_ &ndash; amounts of data on anything countable,
     from distribution centers and transportation costs, to daily inventories of beef burgers, chicken nuggets
     and the uber-popular _Despicable Me_ minion toys...
@@ -280,7 +291,7 @@ in a kinda dark, haunting way:
 
 When I came over to UChicago's Computer Science and Statistics departments to attend lectures and talks,
 and told folks there I was from the b-school, I received identical reception &ndash;
-_i.e._, "_Why [the hell] are you here?_".
+_i.e._, "_Why [the hell] are you here??!_".
 
 Needless to say, my academic and professional paths during this past year have been anything but standard.
 I missed out on a few staples of the MBA life, such as on-campus recruiting, and wandered further afield from
@@ -395,20 +406,21 @@ and also about the cool quant classes at Booth. John, a Berkeley-trained enginee
 data miner and Kaggle.com competitor.
 
 John emailed me a part-time job offer 2 hours after our coffee chat,
-and with the administrative magic that only Booth's Academic Services director **Christine Gramhopfer** can pull off,
-less than a week later I got my work authorization and found myself at a shared desk at Uptake.
+and with the magical administrative ultra-efficiency that only Booth's Academic Services director
+**Christine Gramhopfer** can pull off, less than a week later I got my work authorization
+and found myself at a shared desk at Uptake.
 
 - _That was as much of summer internship recruiting as I ever did &ndash; 2 cups of coffee &ndash;
 because my part-time role kept getting extended subsequently, all the way until **yesterday, 2015-09-23**
 (the very day before school restarts!)_
 
-Working at a fast-growing start-up was like no other things I'd previously done.
+Working at a fast-growing start-up was like nothing I'd ever done.
 When I started in late November, the company was a few months old and had over two dozen employees.
 I joined **Mike Horrell** and **Zac Schaefer**, Stats PhD and MSc from UChicago,
 in the initial Data Science setup. We quickly found ourselves swimming in seas of real-world,
-not-so-pretty to outright-nasty data sets transmitted from a plethora of industrial sensors
+not-so-pretty to outright-nasty data sets transmitted from a an overwhelming number of industrial sensors
 measuring all thinkable kinds of temperatures, pressures, fuel-consumption rates, payload weights,
-throttle power, wheel rotational speeds, oil and water and coolant levels, _etc. etc. etc._
+throttle power, wheel rotational speeds, oil and water and coolant levels, _etc. etc. etc._,
 from mammoth-sized locomotives and mining trucks built by Caterpillar Inc., Uptake's first client. 
 
 
@@ -418,22 +430,23 @@ There are easily 150-300 sensors hidden all over the place and spitting out Big 
 ![](CATLocomotiveEngine.jpg)
 
 
-_CAT builds some truly massive mining trucks &ndash; the kind that roam around the Aussie deserts
+_CAT builds some truly massive mining trucks &ndash; the kind that roam around Aussie mines
 bringing up metal ores and coal to satisfy the Chinese dragon's thirst for energy and raw materials.
-The story goes that **some trucks are so so gigantic that they have in-built washrooms** &ndash;
-because by the time you manage to walk out of one of those keeping compliant with proper industrial safety rules,
+The story goes that **some trucks are so so gigantic that they even have in-built washrooms** &ndash;
+because by the time you manage to walk out of one of those trucks
+keeping fully compliant with proper industrial safety rules,
 your urgent piece of "business" will be very much done.
-When those wheels roll, just be sure to keep distance!!_
+Also, by the way, when those wheels roll, be very sure to keep good distance!!_
 
 ![](CATMiningTruck.jpg)
 
 
 In my total of 10 months at Uptake, my main task / specialty was developing **scalable and performant
 Anomaly Detection algorithms to monitor the health conditions of such data-rich equipment**.
-All kinds of theory that I'd acquired through school, through online courses, _etc._, all became very alive,
-as I was no longer doing a piece of homework for a good grade. I was wrestling with real, messy data
-and trying to get the best possible predictions out of those data in an acceptable live run-time
-to enable people to make timely operating decisions.
+All kinds of theory that I'd acquired through school, through online courses, _etc._, became vividly alive.
+I was no longer doing a piece of homework for a good grade, but wrestling with real, messy data
+and trying to get the best possible predictions and recommendations out of those data
+in an acceptable live run-time to enable people to make informed and timely operating decisions.
 The **cost, in terms of unplanned expenses and lost business,
 of a big piece of machinery not getting maintained when it should**, or conversely,
 **getting idled for maintenance when it is actually healthy**, stands in the order of
@@ -454,7 +467,7 @@ but mainly to meet other data pals in UChicago and see what they were up to.
 
 The Final night featured a diverse array of quickly-hacked-together tools targeting at big problems
 from crime tracking to health solutions provider recommendation (the latter by Booth's own
-leading hacker [**Jake Walker**](http://www.linkedin.com/pub/jake-walker/19/b/2b1), ex-Google / ex-Microsoft,
+pre-eminent hacker [**Jake Walker**](http://www.linkedin.com/pub/jake-walker/19/b/2b1), ex-Google / ex-Microsoft,
 Co-Founder of the awesome aforementioned [Booth Hacks](http://www.chicagobooth.edu/programs/full-time/student-experience/beyond-classroom/groups/Booth-Hacks),
 and now Co-Founder and CTO of built-at-Booth start-up [**Lumii Health**](https://www.LumiiHealth.com)).
 
@@ -491,11 +504,11 @@ so that we Booth MBAs could go out to various industries and play to our core qu
 
 With great guidance from our seniors [**Andrew Edelman**](http://www.linkedin.com/in/andrewedelman)
 and [**Rafi Nulman**](http://www.linkedin.com/pub/rafi-nulman/a/457/210),
-who'd already laid some valuable ground work the year before, we worked with Booth's program officers
+who'd already laid some valuable ground work the year before, we coordinated with Booth's program officers
 to formally launch [**Booth Analytics Club**](http://groups.chicagobooth.edu/Analytics/home) in early 2015.
 
 Our Club is still young and we have tons of things to have to do going forward,
-but we have been elated with how fast the membership base had been expanding,
+but we are elated with how fast the membership base has been expanding,
 with the total now standing at about 100 members across Booth's
 Full-Time, Evening and Weekend MBA programs.
 
@@ -523,23 +536,25 @@ Booth Analytics Nation, watch out for those exciting things coming! <i class="fa
 
 ## What on earth did **_MBALearnsToCode_** learn to code?
 
-At the expense of upsetting my wife Sarah multiple times with coding-induced forgetfulness,
+At the expense of upsetting my wife Sarah multiple times with coding-induced absent-mindedness,
 and of being guilty of playing with my son Antoni a bit less than I should have done,
 I now look back to my one year's worth of output of digital nothings with a (pained) smile.
 
 Among many other coding activities, I have:
 
 - Been building a dozen Machine Learning and related Python programming packages on the Python Package Index (PyPI),
-- Through Booth's **_App Development_** course, acquired super-necessary
+- Through Booth's **_App Development_** course, acquired super-essential
 **HTML**, **CSS** and **SQL databasing** skills,
 - Picked up **Django**, a great software development framework in my favorite language Python
     - Built **2 Django apps** dedicated to Sarah _(to nudge her to beta-test for me in her free time)_;
-    we won't mind if only 1 of the 2 would later go on to fetch $1 billion or something similar
-        - we won't mind if 1 could fetch only $100 mil
-            - we won't mind if 1 could do only $1 mil
-                - we won't mind if 1 could just pay for my MBA tuition
-                    - actually, we'll be just fine so long as my digital-nothing ventures won't burn tons of $
-                    to the point I'd have to sell my clothes and my family'd kick me out
+    maybe, one day, either of those would go on to fetch $1 billion or some cool amount in that order of magnitude
+        - we won't mind if it could fetch only $100 mil
+            - we'll still be super-happy if one goes for $10 mil
+                - we'll be reasonably pleased with $1 mil also
+                    - we'll not feel bad if it could barely pay back enough for my MBA tuition
+                        - actually, we'll be just fine so long as my incessant digital-nothing venturing
+                         does not burn a hole in our savings accounts
+                         to the point I'd have to sell my clothes and get kicked out by my family
 - Deepened by relationship with &ndash; _i.e., digging deeper into my pocket to pay for_ &ndash;
 **Amazon Web Services** such as **EC2**, **Elastic Beanstalk**, **RDS**, **Route 53** and **S3**.
     - I feel good about now being a meaningful driver of their mother company's less negative net profit
@@ -555,13 +570,24 @@ This year's tentative learning deliverables include:
 - **JavaScript**.
 
 
-<a name="NewVentureChallenge"></a>
+<a name="RoadTrips"></a>
 
-## New Venture Challenge
+## Road-tripping my domestic bosses to some worthwhile places
 
+What is better to make a good year complete than a bunch of nice photos
+harvested through thousands of miles of scenic American roads?
 
-<a name="FamilyMan"></a>
+The best of the best was this photo taken by **Sarah** at Mirror Lake, Yosemite:
 
-## Still being a family guy!
+![](MirrorLake.jpg)
 
+... which won **_PhotoBooth_**'s **First Prize** for the its Winter Holiday contest:
 
+![](MirrorLake_PhotoBooth.png)
+
+Look at **whose name is credited** as the winner at the corner of that print-out.
+
+It's _not_ stealing &ndash; I got that credit for marrying the right one,
+who, among many things else, takes awesome photos like that!
+
+Life was, and is, good! <i class="fa fa-smile-o"></i>
