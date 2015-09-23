@@ -14,7 +14,7 @@ On the family front, Sarah and I are expecting another baby boss within less tha
 and hence picturing another tsunami of grueling hard work smashing at us.
 
 So, in the one year now well past, besides acquiring Chicagoan/American tastes such as
-sit-on-the-grass outdoor classical/jazz concerts, thousand-mile drives, and apartments that I'd think be enough
+sit-on-the-grass outdoor classical/jazz concerts, thousand-mile scenic drives, and apartments that I'd think be enough
 for 10 of us back in Singapore, what have I managed to get done? This blog gives you a year-in-the-life little peep.
 
 
@@ -78,7 +78,7 @@ eventually completing a dozen of them. What excited me the most were Coursera's 
 
 I'd already taught myself to code in 3-4 computer languages and built a solid foundation in Data Science 
 through my last 3 years at CapitaMalls, during which I worked on building several Analytics systems to mine
-the company's increasingly vast trove of Leasing, Marketing and Operations data.
+the company's increasingly sizeable and commercially important trove of Leasing, Marketing and Operations data.
 But what Coursera did a tremendous job in was helping me gain a fully up-to-date picture of
 where these exciting fields were heading in terms of really advanced technological applications.
 
@@ -89,7 +89,7 @@ _Machine Learning involves some hair-raising math:_
 
 <a name="RatInSackOfRice"></a>
 
-### Chicago Booth courses
+### Chicago Booth and UChicago courses
 
 At Booth, I found myself a fish in the water &ndash; or, as we say it in an equivalent Oriental metaphor,
 _"a rat in a sack of rice"_ &ndash; with **the school's enormous and uber-flexible curriculum offerings**.
@@ -100,27 +100,26 @@ I've managed to complete 13 courses, 2/3 of my degree requirement, including the
 <br>
 
 - <a name="BoothEntrepreneurship"></a>_ENTREPRENEURSHIP @ BOOTH_: **_Entrepreneurial Selling_** by serial entrepreneur
-    [Craig Wortmann](http://www.chicagobooth.edu/faculty/directory/w/Craig-Wortmann),
+    [Craig Wortmann](http://www.ChicagoBooth.edu/faculty/directory/w/Craig-Wortmann),
     **_Entrepreneurship through Acquisition_** by Private Equity/Search Funds veterans
-    [Mark Agnew](http://www.chicagobooth.edu/faculty/directory/a/Mark-Agnew) and
-    [Brian O'Connor](http://www.chicagobooth.edu/faculty/directory/o/Brian-O-Connor),
+    [Mark Agnew](http://www.ChicagoBooth.edu/faculty/directory/a/Mark-Agnew) and
+    [Brian O'Connor](http://www.ChicagoBooth.edu/faculty/directory/o/Brian-O-Connor),
     and the ultimate showdown **_New Venture Challenge Lab_** led by renowned professors
-    [Steve Kaplan](http://www.chicagobooth.edu/faculty/directory/k/Steven-Neil-Kaplan) and
-    [Ellen Rudnick](http://www.chicagobooth.edu/faculty/directory/r/Ellen-A-Rudnick).
+    [Steve Kaplan](http://www.ChicagoBooth.edu/faculty/directory/k/Steven-Neil-Kaplan) and
+    [Ellen Rudnick](http://www.ChicagoBooth.edu/faculty/directory/r/Ellen-A-Rudnick).
     All are part of Booth's world-beating, already-awesome-and-increasing-so Entrepreneurship curriculum
-    championed by the [Polsky Center](http://research.chicagobooth.edu/Polsky), which also runs
-    an impressive [Entrepreneurship Essentials](http://careeradvancement.uchicago.edu/entrepreneurship/essentials)
+    championed by the [Polsky Center](http://research.ChicagoBooth.edu/Polsky), which also runs
+    an impressive [Entrepreneurship Essentials](http://CareerAdvancement.UChicago.edu/Entrepreneurship/Essentials)
     workshop series.
     
     - In my upcoming 2nd year, I am back for more Entrep goodness in **_Building the New Venture_** by
-    [Waverly Deutsch](http://www.chicagobooth.edu/faculty/directory/d/waverly-deutsch)
+    [Waverly Deutsch](http://www.chicagobooth.edu/faculty/directory/d/Waverly-Deutsch)
     
     <br>
     
 - <a name="UChicagoDataIntensiveCourses"></a>_DATA-INTENSIVE COURSES_ &ndash;
 oodles of them available, to my heart's delight &ndash; in what is the quantitative paradises
-that are Booth and UChicago.
-At Booth, I took **_Big Data_** by rising star
+that are Booth and UChicago. At Booth, I took **_Big Data_** by rising star
 [Matt Taddy](http://www.chicagobooth.edu/faculty/directory/t/Matt-Taddy).
     - <a name="KaggleAXA"></a>For the final project, I made a fairly creditable attempt at tackling this
     [very big and very wild driving telematics tracking data set on Kaggle.com](http://www.kaggle.com/c/axa-driver-telematics-analysis)
@@ -133,7 +132,7 @@ At Booth, I took **_Big Data_** by rising star
     
     Another quant must-try was **_Machine Learning & Large-Scale Data Analysis_**
 by UChicago's leading Machine Learning guru [John Lafferty](https://galton.uchicago.edu/~lafferty).
-His course was a sweeping survey of head-cracking math and literally astronomical data sets
+His course was a sweeping survey with head-cracking math and literally astronomical data sets
 _(e.g. characteristic light curves from dozens of thousands of planets and stars)_.
 More on Lafferty [below](#JohnLafferty).
 
@@ -142,14 +141,14 @@ More on Lafferty [below](#JohnLafferty).
     ![](JohnLaffertyMLLSDA_KeplerMilkyWay.png)
     ![](JohnLaffertyMLLSDA_AstroData.png)
     
-<br>
+    <br>
 
 - <a name="UChicagoScienceAndTechCourses"></a>_SCIENCE / TECH COURSES_ in UChicago:
-Booth's flexible curriculum enables me to try out great offerings elsewhere within the vast UChicago system. 
+Booth's flexible curriculum enables me to try out great offerings elsewhere at UChicago's diverse member institutions. 
 My hands-down favorite was **_Robotics & Artificial Intelligence_** by
 [Matt Walter](http://ttic.uchicago.edu/~mwalter),
 a UIUC- and MIT-trained roboticist and one of the builders of the MIT Self-Driving Car, which
-finished in the top 5 in [DARPA's 2007 Urban Challenge](http://archive.darpa.mil/grandchallenge).
+finished in the top 5 in [DARPA's famous 2007 Urban Challenge](http://archive.darpa.mil/grandchallenge).
 
     - <a name="RoboSoccer"></a>My final Robotics programming project, perfectly timed shortly before the European (Soccer) Cup final,
     was this [**RoboSoccer game**](http://www.Facebook.com/LuongTheVinh/videos/vb.36917371/10101310626436280/?type=2&theater),
@@ -165,11 +164,11 @@ finished in the top 5 in [DARPA's 2007 Urban Challenge](http://archive.darpa.mil
     
         _But that triumphal end only came after I barely survived
         this below sad, sick, total-terror Robo reading list,
-        which is written in more Greek symbols than English text..._
+        which is written in as many Greek symbols as English characters..._
         
         ![](RoboticsReadings.png)
     
-    <br>
+        <br>
     
     I also got a taste of **_Computer Vision_** by
 [Sam Armato](http://radiology.uchicago.edu/directory/Samuel-Armato-III) and
@@ -214,7 +213,7 @@ M&As, and organizations fail &ndash; and pointed out highly practical remedies.
 
 <br>  
   
-- <a name="BoothAppDev"></a>_APP DEVELOPMENT_: Thanks to massive amounts of hard work by my great pals over at
+- <a name="BoothAppDev"></a>_APP DEVELOPMENT_: Thanks to sheer amounts of hard work by my great pals over at
 [Booth Hacks](http://www.chicagobooth.edu/programs/full-time/student-experience/beyond-classroom/groups/Booth-Hacks),
 who trial-ran an 8-week proof-of-concept web development course in 2013-2014,
 Booth now has a always-sold-out **_App Development_** course wonderfully taught by
@@ -264,7 +263,7 @@ not of Chicago Bulls but rather of UC Berkeley. He came to give a guest lecture 
 highly performant algorithms to deal with really big data, in a session also fully-attended
 to the firemen's discomfort.
     
-    _Apparently, to fully understand Jordan's math, one must sometimes trade off some valuable hair:_
+    _Apparently, to fully appreciate Jordan's math and analyses, one must sometimes trade off some valuable hair:_
     
     ![](MikeJordanLecture.png)
 
@@ -301,11 +300,12 @@ in Booth's open, curious and progressive academic environment.
 
 In late November 2014, I reached out to invite some Booth friends to try out a 4-week Machine Learning crash course,
 focusing on [**Predictive Analytics and Pattern Recognition using Neural Networks**](NeuralNetworksForPatternRecognition.pdf).
-I got lots of help from my long-time pals **_Kathy Le_** and her husband **_Khoi Nguyen_** _(give 'em a shout!)_
+I got lots of help from my long-time pals [**Kathy Le**](https://www.linkedin.com/in/lenguyenphuongthikathy)
+and her husband [**Khoi Nguyen**](http://www.linkedin.com/pub/khoi-nguyen/52/963/762) _(give a shout-out to 'em!)_
 to organize 3-hour Saturday-afternoon classes at Park Millennium's business center. They even volunteered their TV
 for me to present my materials, as Park Mill's TV was very broken.
 
-About 8 joined at the beginning, and 5 went all the way to finish this experimental course.
+8 friends joined at the beginning, and 5 went all the way to finish this experimental course.
 We used a Matlab programming package I'd been coding up for 8 months to run demos on classic
 Machine Learning / Neural Networks use cases in **optical character recognition** (**OCR**).
 My friends brought home real, serious homework with **multiple-choice questions**, **write-up questions**,
@@ -315,11 +315,11 @@ everyone was given 90 minutes to build a Neural Network to rate the quality of b
 on data collected from fitness tracking devices.
 
 _Machine Learning class finalists:
-[**Khoi Nguyen**](http://www.linkedin.com/pub/khoi-nguyen/52/963/762),
+[**Khoi Nguyen**](http://www.linkedin.com/pub/khoi-nguyen/52/963/762), 
 [**Kathy Le**](https://www.linkedin.com/in/lenguyenphuongthikathy),
 [**Keith Wagner**](http://www.linkedin.com/pub/keith-wagner/34/68/176),
 [**Eric Cheng**](http://www.linkedin.com/pub/eric-cheng/35/b0a/221),
-me (= warden / referee), and
+**me** (= warden / referee), and
 [**Juan Yrigoyen**](http://www.linkedin.com/in/jyrigoyen).
 Everyone in this photo owes a beer to
 Eric (Booth Hacks co-chair, Google intern), who tops the final with a
@@ -355,22 +355,22 @@ starting September 2015 &ndash;
 the <span style="background-color: #FFFF00">**very first in the world of its kind**</span>
 in the curricula of the leading U.S. and international business schools that we know of!!
 Senior professor [**Rob McCulloch**](http://www.chicagobooth.edu/faculty/directory/m/Robert-E-McCulloch)
-and Mladen would co-teach the course, which would feature contents hitherto pretty alien to a b-school audience,
+and Mladen would co-teach the course, which would feature contents hitherto alien to a b-school audience,
 including but certainly not limited to:
 
-- Ensemble modeling methods such as Random Forests / Boosting / Bagging,
-- Neural Networks / a primer on Deep Learning,
-- Recommendation Engines,
-- Anomaly Detection in high-dimensional data, and
-- Probabilistic Graphical Models
+- _Ensemble modeling methods such as Random Forests / Boosting / Bagging,_
+- _Neural Networks / a primer on Deep Learning,_
+- _Recommendation Engines,_
+- _Anomaly Detection in high-dimensional data, and_
+- _Probabilistic Graphical Models._
 
 The new offering proved popular with Booth's quant-thirsty populace, with about 100 MBAs signing up.
 Mladen and I labored over the summer to build this
 [**shiny website for the course**](http://chicagoboothml.github.io/MachineLearning_Fall2015),
-and with the addition of my fellow MBA [**Juan Yrigoyen**](http://www.linkedin.com/in/jyrigoyen)
-_(Big Data fanatic and a summer data-cruncher at Amazon)_ and
+and with my fellow Booth MBA [**Juan Yrigoyen**](http://www.linkedin.com/in/jyrigoyen)
+_(Big Data fanatic and a summer data-cruncher at Amazon)_ and UChicago Econ PhD
 [**Dan Hedblom**](http://www.linkedin.com/pub/daniel-hedblom/2/332/b07)
-_(UChicago Econ PhD)_ to the course staff, we got ready to start rocking-and-rolling at
+also joining the course staff, we got ready to start rocking-and-rolling at
 **Eight-Thirty AM, Today, September the Twenty-Forth, Twenty-Fifteen**.
 
 _Picture from D-Day:_
@@ -380,7 +380,7 @@ _Picture from D-Day:_
 
 ### Data Scientist / Analytics Product Architect @ disruptive Industrial Internet-of-Things Analytics start-up Uptake, LLC
 
-In late October 2014, barely a months into my MBA program, I saw a two-and-a-half line advertisement about
+In late October 2014, barely a month into my MBA program, I saw a two-and-a-half line advertisement about
 a Chicago-based analytics start-up named [**Uptake**](http://uptake.com), written by COO **John Ciasulli**,
 a newly-minted 2014 Booth grad and a VC at [Lightbank](http://www.lightbank.com),
 on our Entrepreneurship & Venture Capital group's newsletter.
