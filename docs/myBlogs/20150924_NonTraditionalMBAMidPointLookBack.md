@@ -56,6 +56,20 @@ and general Data Science and Computer Science
 - What did [**_MBALearnsToCode_**](#MBALearnsToCode) learn to code?
 
 - Road-tripping my domestic bosses to some [**worthwhile places**](#RoadTrips)!
+    - [**Grand Canyon**](#GrandCanyon)
+    - [**Bryce Canyon**](#BryceCanyon)
+    - [**Zion**](#Zion)
+    - [**HooverDam**](#HooverDam)
+    - [**Las Vegas**](#LasVegas)
+    - [**Yosemite**](#Yosemite)
+    - [**Big Sur**](#BigSur)
+    - [**Monterey** and **Carmel**](#MontereyAndCarmel)
+    - [**Muir Woods**](#MuirWoods)
+    - [**San Francisco**](#SanFrancisco)
+    - [**Wisconsin** for skiing](#Wisconsin)
+    - [**Grand Teton**](#GrandTeton)
+    - [**Yellowstone**](#Yellowstone)
+    - [**Glacier**](#Glacier)
  
 
 ## Being a diligent schoolboy again
@@ -575,19 +589,154 @@ This year's tentative learning deliverables include:
 ## Road-tripping my domestic bosses to some worthwhile places
 
 What is better to make a good year complete than a bunch of nice photos
-harvested through thousands of miles of scenic American roads?
+harvested through thousands of miles of American roads through such wondrous places as:
 
-The best of the best was this photo taken by **Sarah** at Mirror Lake, Yosemite:
+
+<a name="GrandCanyon"></a>
+
+### **Grand Canyon...**
+
+![](GrandCanyonHorizon.jpg)
+![](GrandCanyonCloseUp.jpg)
+![](GrandCanyonHike.jpg)
+![](GrandCanyonEdge.jpg)
+
+
+<a name="BryceCanyon"></a>
+
+### **Bryce Canyon...**
+
+![](BryceCanyonHorizon.jpg)
+![](BryceCanyonHikeHigh.jpg)
+![](BryceCanyonHike.jpg)
+
+
+<a name="Zion"></a>
+
+### **Zion...**
+
+![](ZionHorizon.jpg)
+![](ZionWave.jpg)
+![](ZionSitOnRock.jpg)
+![](ZionSunrise.jpg)
+![](ZionSleepOnRock.jpg)
+![](ZionSlide.jpg)
+
+
+<a name="HooverDam"></a>
+
+### **Hoover Dam...**
+
+![](HooverDam.jpg)
+
+<a name="LasVegas"></a>
+
+
+### **Las Vegas...**
+_(yah, some fake stuff in Vegas can actually be quite beautiful)_
+
+![](LasVegasBellagio.jpg)
+![](LasVegasGarden.jpg)
+
+
+<a name="Yosemite"></a>
+
+### **Yosemite...**
+
+![](YosemiteNearMirrorLake.jpg)
+![](YosemiteFatherAndSon.jpg)
+![](YosemiteFatherAndSonInBlue.jpg)
+![](YosemiteOnMeadow.jpg)
+![](YosemiteSarahSkiing.jpg)
+![](YosemiteSkiingStandUp.jpg)
+
+
+<a name="BigSur"></a>
+
+### **Big Sur...**
+
+![](BigSurBixbyBridge.jpg)
+![](BigSurMcWayFall.jpg)
+![](BigSurSeaShore.jpg)
+
+
+<a name="MontereyAndCarmel"></a>
+
+### **Monterey & Carmel...**
+_(lots of sardines & posh mansions)_
+
+![](MontereyPortollaSardines.jpg)
+![](MontereyAquariumTank.jpg)
+![](MontereyInsideAquarium.jpg)
+![](CarmelMission.jpg)
+![](CarmelPebbleBeachMansion.jpg)
+![](Carmel.jpg)
+
+
+<a name="MuirWoods"></a>
+
+### **Muir Woods...**
+
+![](MuirWoods.jpg)
+
+
+<a name="SanFrancisco"></a>
+
+### **San Francisco...**
+
+![](SanFranciscoPalaceOfFineArts.jpg)
+![](SanFranciscoGoldenGateBridge.jpg)
+![](SanFranciscoHeart.jpg)
+![](SanFranciscoCoitTowerMural.jpg)
+![](SanFranciscoJewishMuseum.jpg)
+
+
+<a name="Wisconsin"></a>
+
+### **Wisconsin** for some skiing...
+
+![](WisconsinSkii.jpg)
+![](WisconsinSkiingAntoni.jpg)
+
+
+<a name="GrandTeton"></a>
+
+### **Grand Teton...**
+
+![](GrandTetonAntoniGlacierView.jpg)
+![](GrandTetonHiking.jpg)
+![](GrandTetonTrail.jpg)
+
+
+<a name="Yellowstone"></a>
+
+### **Yellowstone...**
+
+![](YellowstoneGrandPrismaticSpring.jpg)
+![](YellowstoneMammothHotSprings.jpg)
+
+
+<a name="Glacier"></a>
+
+### and **Glacier...**
+
+![](GlacierValleyView.jpg)
+![](GlacierHike.jpg)
+
+
+### The **BEST** shot was...
+
+this gem of a photo taken by **Sarah** at Mirror Lake, Yosemite:
 
 ![](MirrorLake.jpg)
 
-... which won **_PhotoBooth_**'s **First Prize** for the its Winter Holiday contest:
+... which won **_PhotoBooth_**'s \*\*\***First Prize**\*\*\* for the its Winter Holiday contest:
 
 ![](MirrorLake_PhotoBooth.png)
 
 Look at **whose name is credited** as the winner at the corner of that print-out.
 
-It's _not_ stealing &ndash; I got that credit for marrying the right one,
+That's _not_ stealing &ndash; I got the deserved credit for marrying the right one,
 who, among many things else, takes awesome photos like that!
 
 Life was, and is, good! <i class="fa fa-smile-o"></i>
