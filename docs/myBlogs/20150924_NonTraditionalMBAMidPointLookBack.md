@@ -55,11 +55,11 @@ and general Data Science and Computer Science
 
 - What did [**_MBALearnsToCode_**](#MBALearnsToCode) learn to code this past year?
 
-- Road-tripping my domestic bosses to some [**worthwhile places**](#RoadTrips)!
+- Road-tripping my domestic bosses to some [**pretty O.K. places**](#RoadTrips)!
     - [**Grand Canyon**](#GrandCanyon)
     - [**Bryce Canyon**](#BryceCanyon)
     - [**Zion**](#Zion)
-    - [**HooverDam**](#HooverDam)
+    - [**Hoover Dam**](#HooverDam)
     - [**Las Vegas**](#LasVegas)
     - [**Yosemite**](#Yosemite)
     - [**Big Sur**](#BigSur)
@@ -396,6 +396,9 @@ Mladen and I labored over the summer to build this
 and we started rocking-and-rolling at **Eight-Thirty AM, Today, September the Twenty-Forth, Twenty-Fifteen**!
 
 _Picture from D-Day:_
+
+![](MLclass_McCulloch.png)
+![](MLclass_slide.png)
 
 
 <a name="Uptake"></a>
