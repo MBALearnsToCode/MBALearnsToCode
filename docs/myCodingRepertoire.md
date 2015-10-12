@@ -21,12 +21,14 @@
             </figure>
         </div>
         
+        <!--
         <div class="col-sm-1">
            <figure>
                <a href="http://julialang.org"><img src="https://avatars0.githubusercontent.com/u/743164?v=3&s=400" class="repertoire-image"></a>
                <figcaption><a href="http://julialang.org"><b>Julia</b></a></figcaption>
            </figure>
         </div>
+        -->
         
         <div class="col-sm-2">
             <figure>
@@ -52,6 +54,7 @@
             </figure>
         </div>
         
+        <!--
         <div class="col-sm-1">
             <figure>
                 <a href="https://spark.apache.org"><img src="http://spark.apache.org/images/spark-logo.png" class="repertoire-image"></a>
@@ -65,6 +68,7 @@
                 <figcaption><a href="https://www.elastic.co/products/elasticsearch"><b>Elastic Search</b></a></figcaption>
             </figure>
         </div>
+        -->
         
     </div>
                         
@@ -100,7 +104,7 @@
 
         <div class="col-sm-1">
            <figure>
-               <a href="https://www.w3.org/Style/CSS"><img src="https://m2.behance.net/rendition/pm/18168879/disp/328ce64d5467339ec8f07ce773312b39.jpg" class="repertoire-image"></a>
+               <a href="https://www.w3.org/Style/CSS"><img src="http://grahamtylerwong.com/images/Icons/css3logo_large.png" class="repertoire-image"></a>
                <figcaption><a href="https://www.w3.org/Style/CSS"><b>CSS</b></a></figcaption>
            </figure>
         </div>
@@ -162,7 +166,7 @@
                         
 </div>
 
-
+<!--
 ## Other Cloud Computing
 
 <div class="container repertoire">
@@ -179,7 +183,7 @@
     </div>
                         
 </div>
-
+-->
 
 ## Visualization
 
