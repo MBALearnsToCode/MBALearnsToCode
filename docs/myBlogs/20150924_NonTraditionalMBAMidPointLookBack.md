@@ -14,9 +14,9 @@ On the family front, Sarah and I are expecting another baby boss within less tha
 and hence picturing another tsunami of grueling hard work smashing at us.
 
 So, in the one year now well past, besides acquiring Chicagoan/American tastes such as
-sit-on-the-grass outdoor classical/jazz concerts, thousand-mile scenic drives, and apartments that I'd think be enough
-for 10 of us back in Singapore, what have I managed to get done? This blog gives you a year-in-the-life-of-mine
-little peep.
+sit-on-the-grass outdoor classical/jazz concerts, thousands of miles of scenic drives,
+and apartments that I'd think be enough for 10 of us back in Singapore,
+what have I managed to get done? This blog gives you a year-in-the-life-of-mine little peep.
 
 
 ## **TL;DR**
@@ -53,13 +53,13 @@ and general Data Science and Computer Science
 
 - Birth of [**Booth Analytics Club**](#BoothAnalyticsClub)
 
-- What did [**_MBALearnsToCode_**](#MBALearnsToCode) learn to code?
+- What did [**_MBALearnsToCode_**](#MBALearnsToCode) learn to code this past year?
 
-- Road-tripping my domestic bosses to some [**worthwhile places**](#RoadTrips)!
+- Road-tripping my domestic bosses to some [**pretty O.K. places**](#RoadTrips)!
     - [**Grand Canyon**](#GrandCanyon)
     - [**Bryce Canyon**](#BryceCanyon)
     - [**Zion**](#Zion)
-    - [**HooverDam**](#HooverDam)
+    - [**Hoover Dam**](#HooverDam)
     - [**Las Vegas**](#LasVegas)
     - [**Yosemite**](#Yosemite)
     - [**Big Sur**](#BigSur)
@@ -105,8 +105,8 @@ _Machine Learning involves some hair-raising math:_
 ### Chicago Booth and UChicago courses
 
 At Booth, I found myself a fish in the water &ndash; or, as we say it in an equivalent Oriental metaphor,
-_"a rat in a sack of rice"_ &ndash; with **the school's enormous and uber-flexible curriculum offerings**.
-Not only there are uncountable exciting courses _(try counting the Finance classes, which Booth is famous for)_,
+_"a rat in a sack of rice"_ &ndash; with **the school's enormous and uber-flexible curricular offerings**.
+Not only there are uncountable exciting courses _(try counting the Finance classes, for which Booth is famous)_,
 there is a _huge_ amount of freedom in crafting one's individualized learning path. By this mid-point in the program,
 I've managed to complete 13 courses, 2/3 of my degree requirement, including the following highlights:
 
@@ -131,7 +131,7 @@ I've managed to complete 13 courses, 2/3 of my degree requirement, including the
     a New York-based advanced maritime technological training center.
     
         _Team [**Maestro**](http://www.maestrofood.co/maestro) topped the 2015 NVC with a smart cooking appliance
-    and a Final pitch of quality bordering on pure theater:_
+    and a Final pitch of stylishness and meticulous execution bordering on pure theater:_
     
         ![](MaestroNVC.png)
     
@@ -195,7 +195,7 @@ finished in the top 5 in [DARPA's famous 2007 Urban Challenge](http://archive.da
     
         <br>
     
-    I also got a taste of **_Computer Vision_** by
+    I also got a taste of **_Computer Vision_** from
 [Sam Armato](http://radiology.uchicago.edu/directory/Samuel-Armato-III) and
 [Maryellen Giger](http://radiology.uchicago.edu/directory/Maryellen-L-Giger),
 seasoned scientists who have been spending many decades developing
@@ -214,10 +214,10 @@ automated visual analysis technologies for advanced medical equipment.
     
     ![](ChestXRay.jpg)
 
-    _To their credit, when they were in a more chilled-out, non-medical-doctorial mood, they sometimes used
-    this [**iconic, super-motivating "Lenna" (Söderberg) photo**](https://en.wikipedia.org/wiki/Lenna)
+    _Thankfully, when they were in a more chilled-out, non-medical-doctorial mood, they sometimes used
+    this [**ultra-iconic "Lenna" (Söderberg) photo**](https://en.wikipedia.org/wiki/Lenna)
     in illustrating their Comp Vision algorithms (e.g. analyzing how differently her smooth skin and her hat's
-    non-smooth fur turn out in the Fast Fourier Transform (FFT) frequency domain, etc.):_
+    non-smooth fur turn out in the Fourier frequency domain, etc.):_
     
     ![](Lenna.png)
 
@@ -247,7 +247,7 @@ a course that takes many initially feeble new coding hands and turns them into c
 producing apps to track and analyze credit-card spends or to remind one to dry-clean one's clothes, _etc._
     
     - I successfully built 2 apps over the 2015 summer, dedicating them to my wife Sarah
-    (basically using her free labor to beta-test them for me).
+    _(essentially to use her free labor to beta-test them for me)_.
 
 
 <a name="MeetingFamousComputerScientistsAndStatisticians"></a>
@@ -274,21 +274,21 @@ I should really pay to sit there. But I think he doesn't hate me, or care enough
     ![](HintonLecture.png)
 
 - <a name="JohnLafferty">[**JOHN LAFFERTY**](http://en.wikipedia.org/wiki/John_D._Lafferty)</a>,
-who founded the world's first Machine Learning department at Carnegie Mellon University,
+who founded the world's first Machine Learning department at Carnegie Mellon,
 and then joined UChicago &ndash; _with an O.K.-plus moving package, for sure_ &ndash; to make us great.
 You'll find him really gentle, approachable, fatherly and utterly likeable,
-until he actually throws some painful, daddy's-tough-love, hard-rock math at you.
-Notwithstanding its difficult-to-chew reputation,
+until he starts hurling at you loads of painful, daddy's-tough-love, this-is-not-pleasant-but-it's-good-for-you,
+rock-hard math!! Notwithstanding its difficult-to-chew reputation,
 his signature course **_Machine Learning & Large-Scale Data Analysis_** invariably attracts a crazily-crowded,
-diverse, rock-concert-like audience, with students sitting elbow-to-elbow on chairs, more students sitting on the floor,
-and yet more students peeping from outside the door, like so:
+diverse, rock-concert-like following, with students sitting elbow-to-elbow on chairs,
+more students sitting on the floor, and yet more students peeping from outside the door...
 
 - <a name="MikeJordan">[**MICHAEL JORDAN**](http://en.wikipedia.org/wiki/Michael_I._Jordan)</a>,
-not of Chicago Bulls but rather of UC Berkeley. He came to give a guest lecture on some
-highly performant algorithms to deal with really big data, in a session also fully-attended
-to the firemen's discomfort.
+not the Chicago Bulls basketballer but rather the UC Berkeley machine-learner.
+He came to give a guest lecture on some highly performant algorithms to deal with really big data,
+in a session also fully-occupied to the firemen's discomfort.
     
-    _Apparently, to fully appreciate Jordan's math and analyses, one must sometimes trade off some valuable hair:_
+    _Apparently, to fully appreciate Jordan's deep analyses, one must sometimes trade off some valuable hair:_
     
     ![](MikeJordanLecture.png)
 
@@ -323,7 +323,7 @@ in Booth's open, curious and progressive academic environment.
 
 ### Trial Machine Learning classes for Booth MBA friends
 
-In late November 2014, I reached out to invite some Booth friends to try out a 4-week Machine Learning crash course,
+In November 2014, I reached out to invite some Booth friends to try out a 4-week Machine Learning crash course,
 focusing on [**Predictive Analytics and Pattern Recognition using Neural Networks**](NeuralNetworksForPatternRecognition.pdf).
 I got lots of help from my long-time pals [**Kathy Le**](https://www.linkedin.com/in/lenguyenphuongthikathy)
 and her husband [**Khoi Nguyen**](http://www.linkedin.com/pub/khoi-nguyen/52/963/762) _(give a shout-out to 'em!)_
@@ -365,18 +365,19 @@ the Facebook Fellowship**](http://www.facebook.com/notes/facebook/announcing-the
 I immediately fired out an email to Mladen, in a prudently formal-enough tone, but translatable roughly to
 _"**You're an ML expert... that's cool... and you decided to join Booth... incredible... no way!... WE. MUST. MEET**!!"_
 
-We met face-to-face in his office right before the winter holiday break, and I shared with him
-the excitement and good feedback from my friends whom I'd been teaching Machine Learning to,
+We met face-to-face in Mladen's Harper Center office suite right before the winter holiday break,
+and I shared with him the excitement and good feedback from my friends whom I'd been teaching Machine Learning to,
 and exchanged thoughts on how we could generalize such feedback to a real demand by Booth MBAs,
 many of whom are very quant-oriented, for getting our heads around Machine Learning / A.I. and
 becoming effective business executives in our subsequent careers when we would inevitably have to deal with
 advanced Data Analytics and technologies powered by Machine Learning algorithms.
 
-We had a couple of further follow-up brain-storming discussions, and then one fine day in Spring 2015,
-Mladen informed me that he had successfully worked his magic within what is a very open, progressive
-and innovative Chicago Booth curriculum-planning system, and <span style="background-color: #FFFF00">
-**there will indeed be a Machine Learning course specificially tailored to Booth MBAs**</span>
-starting September 2015 &ndash;
+We had a couple of further follow-up brain-storming discussions, roping in my fellow Booth MBA
+[**Juan Yrigoyen**](http://www.linkedin.com/in/jyrigoyen) _(data fanatic and summer SQL-abuser at Amazon)_
+and then one fine day in Spring 2015, Mladen informed us that he had successfully worked his magic
+within what is a very open, progressive and innovative Chicago Booth curriculum-planning system,
+and <span style="background-color: #FFFF00"> **there'd indeed be a Machine Learning course
+specificially tailored to Booth MBAs**</span> starting September 2015 &ndash;
 the <span style="background-color: #FFFF00">**very first in the world of its kind**</span>
 in the curricula of the leading U.S. and international business schools that we know of!!
 Senior professor [**Rob McCulloch**](http://www.chicagobooth.edu/faculty/directory/m/Robert-E-McCulloch)
@@ -392,13 +393,12 @@ including but certainly not limited to:
 The new offering proved popular with Booth's quant-thirsty populace, with about 100 MBAs signing up.
 Mladen and I labored over the summer to build this
 [**shiny website for the course**](http://chicagoboothml.github.io/MachineLearning_Fall2015),
-and with my fellow Booth MBA [**Juan Yrigoyen**](http://www.linkedin.com/in/jyrigoyen)
-_(Big Data fanatic and a summer data-cruncher at Amazon)_ and UChicago Econ PhD
-[**Dan Hedblom**](http://www.linkedin.com/pub/daniel-hedblom/2/332/b07)
-also joining the course staff, we got ready to start rocking-and-rolling at
-**Eight-Thirty AM, Today, September the Twenty-Forth, Twenty-Fifteen**.
+and we started rocking-and-rolling at **Eight-Thirty AM, Today, September the Twenty-Forth, Twenty-Fifteen**!
 
 _Picture from D-Day:_
+
+![](MLclass_McCulloch.png)
+![](MLclass_slide.png)
 
 
 <a name="Uptake"></a>
@@ -408,14 +408,14 @@ _Picture from D-Day:_
 In late October 2014, barely a month into my MBA program, I saw a two-and-a-half line advertisement about
 a Chicago-based analytics start-up named [**Uptake**](http://uptake.com), written by COO **John Ciasulli**,
 a newly-minted 2014 Booth grad and a VC at [Lightbank](http://www.lightbank.com),
-on our Entrepreneurship & Venture Capital group's newsletter.
+on our Entrepreneurship & Venture Capital student group's newsletter.
 John wrote that Uptake was seeking to use advanced Machine Learning to enhance the efficiency of
 massive heavy industrial machinery such as freight locomotives and mining trucks,
 which sounded really awesome real-world use cases to me.
 
 I speculatively emailed John expressing my interest in knowing more, and was delighted when he invited me
 over "for coffee" a couple of days later. I did have some nice, strong coffee _(2 cups)_,
-and we talked a great deal about what predictive tasks are involved in automating industrial processes,
+and we talked a great deal about what predictive analytics tasks were involved in automating industrial processes,
 and also about the cool quant classes at Booth. John, a Berkeley-trained engineer by background, is himself a fervent
 data miner and Kaggle.com competitor.
 
@@ -434,19 +434,21 @@ I joined **Mike Horrell** and **Zac Schaefer**, Stats PhD and MSc from UChicago,
 in the initial Data Science setup. We quickly found ourselves swimming in seas of real-world,
 not-so-pretty to outright-nasty data sets transmitted from a an overwhelming number of industrial sensors
 measuring all thinkable kinds of temperatures, pressures, fuel-consumption rates, payload weights,
-throttle power, wheel rotational speeds, oil and water and coolant levels, _etc. etc. etc._,
-from mammoth-sized locomotives and mining trucks built by Caterpillar Inc., Uptake's first client. 
+throttle power, wheel rotational speeds, oil and water and coolant levels, chemical levels in liquids,
+_etc. etc. etc._, from mammoth-sized locomotives and mining trucks built by Caterpillar Inc., Uptake's first client. 
 
 
 _A close-up of an engine of a CAT freight locomotive below.
-There are easily 150-300 sensors hidden all over the place and spitting out Big Data from all that Big Iron._
+There are easily 150-300 sensors hidden all over the place
+and spitting out really Big Data from all that really Big Iron._
 
 ![](CATLocomotiveEngine.jpg)
 
 
 _CAT builds some truly massive mining trucks &ndash; the kind that roam around Aussie mines
 bringing up metal ores and coal to satisfy the Chinese dragon's thirst for energy and raw materials.
-The story goes that **some trucks are so so gigantic that they even have in-built washrooms** &ndash;
+The story goes that **some trucks are so so gigantic** (much more than the one shown here)
+**that they even have in-built washrooms** &ndash;
 because by the time you manage to walk out of one of those trucks
 keeping fully compliant with proper industrial safety rules,
 your urgent piece of "business" will be very much done.
@@ -455,16 +457,16 @@ Also, by the way, when those wheels roll, be very sure to keep good distance!!_
 ![](CATMiningTruck.jpg)
 
 
-In my total of 10 months at Uptake, my main task / specialty was developing **scalable and performant
-Anomaly Detection algorithms to monitor the health conditions of such data-rich equipment**.
+In my total of 10 months at Uptake _(that was one loooooonnng "summer")_, my main task / specialty was developing
+**scalable and performant Anomaly Detection algorithms to monitor the health conditions of such data-rich equipment**.
 All kinds of theory that I'd acquired through school, through online courses, _etc._, became vividly alive.
 I was no longer doing a piece of homework for a good grade, but wrestling with real, messy data
 and trying to get the best possible predictions and recommendations out of those data
-in an acceptable live run-time to enable people to make informed and timely operating decisions.
-The **cost, in terms of unplanned expenses and lost business,
+in an acceptable live run-time to enable mechanical engineers on the ground
+to make informed and timely operating decisions. The **cost, in terms of unplanned expenses and lost business,
 of a big piece of machinery not getting maintained when it should**, or conversely,
 **getting idled for maintenance when it is actually healthy**, stands in the order of
-**hundreds of thousands of dollars per asset, per time**.
+**hundreds of thousands of dollars per asset, per time**!
 
 
 <a name="ComputationInstituteHackathon"></a>
@@ -488,7 +490,7 @@ and now Co-Founder and CTO of built-at-Booth start-up [**Lumii Health**](https:/
 I chipped in with some entertainment by presenting a Neural Network that has been trained
 to recognize the [**poker hands**](http://en.wikipedia.org/wiki/List_of_poker_hands) &ndash;
 _Pair_, _Two Pairs_, _Three of a Kind_, _Straight_, _Flush_, _Full House_, _Four of a Kind_ and _Straight Flush_ &ndash;
-to a high level of accuracy. The exercise was mainly for fun, but also illustrated the challenges of
+to a high level of accuracy. The exercise was mainly for fun, but also illustrated the very real challenges of
 "**skewed classes**" in training Machine Learning models. A _Straight Flush_ hand, for instance, is
 about 30,000 times rarer than a lame _Pair_, and simplistic algorithms may run for centuries without ever
 figuring out the _Straight Flush_. Poker is a fun way to study this difficult challenge.
@@ -498,9 +500,9 @@ figuring out the _Straight Flush_. Poker is a fun way to study this difficult ch
 
 ## Birth of Booth Analytics Club
 
-Besides Booth's wondering quant academic offerings, another factor that made me feel a fish in the water
+Besides Booth's wonderful quant academic offerings, another factor that made me feel a fish in the water
 (or _"a rat in a sack of rice"_, as we say it in where I come from)
-at Booth is being surrounded by many classmates that share the same passions
+at Booth is being surrounded by many classmates that share the same enthusiasm
 for data and numbers, and who are excited about the applications of modern Data Analytics in today's business.
 
 Through Orientation and various classes and meet-ups, I got to know
@@ -512,13 +514,13 @@ Through Orientation and various classes and meet-ups, I got to know
 and who shared the view that Data Analytics had now become a crucial profession
 cutting across multiple industries, and that industries now demanded greater and greater
 Analytics mastery from business executives than ever before.
-With Booth's and UChicago's rich quant tradition, it was time to
+With Booth's and UChicago's rich quant tradition, it was definitely time to
 build at Booth a strong student community around Data Analytics in Business,
 so that we Booth MBAs could go out to various industries and play to our core quant strengths.
 
 With great guidance from our seniors [**Andrew Edelman**](http://www.linkedin.com/in/andrewedelman)
 and [**Rafi Nulman**](http://www.linkedin.com/pub/rafi-nulman/a/457/210),
-who'd already laid some valuable ground work the year before, we coordinated with Booth's program officers
+who'd already laid a lot of valuable ground work the year before, we coordinated with Booth's program officers
 to formally launch [**Booth Analytics Club**](http://groups.chicagobooth.edu/Analytics/home) in early 2015.
 
 Our Club is still young and we have tons of things to have to do going forward,
@@ -530,7 +532,7 @@ We have so far organized:
 
 - 2 Lunch-and-Learn panels on **_Analytics in Modern Business_** and **_Surviving Analytics Internships_**,
 - A guest lecture on **_Analytics onboard Self-Driving Cars_**,
-by who else but my Robotics prof [Matt Walter](http://ttic.uchicago.edu/~mwalter),
+by who else but my Robotics prof [**Matt Walter**](http://ttic.uchicago.edu/~mwalter),
 - A talk on **_Analytics at IBM_**, and
 - A cosy summer get-together.
 
@@ -548,7 +550,7 @@ Booth Analytics Nation, watch out for those exciting things coming! <i class="fa
 
 <a name="MBALearnsToCode"></a>
 
-## What on earth did **_MBALearnsToCode_** learn to code?
+## What on earth did **_MBALearnsToCode_** learn to code this past year?
 
 At the expense of upsetting my wife Sarah multiple times with coding-induced absent-mindedness,
 and of being guilty of playing with my son Antoni a bit less than I should have done,
@@ -557,6 +559,7 @@ I now look back to my one year's worth of output of digital nothings with a (pai
 Among many other coding activities, I have:
 
 - Been building a dozen Machine Learning and related Python programming packages on the Python Package Index (PyPI),
+
 - Through Booth's **_App Development_** course, acquired super-essential
 **HTML**, **CSS** and **SQL databasing** skills,
 - Picked up **Django**, a great software development framework in my favorite language Python
@@ -568,12 +571,18 @@ Among many other coding activities, I have:
                     - we'll not feel bad if it could barely pay back enough for my MBA tuition
                         - actually, we'll be just fine so long as my incessant digital-nothing venturing
                          does not burn a hole in our savings accounts
-                         to the point I'd have to sell my clothes and get kicked out by my family
+                         to the point I'd have to sell my clothes and get kicked out by my family                 
+                         <br>
+                         
 - Deepened by relationship with &ndash; _i.e., digging deeper into my pocket to pay for_ &ndash;
 **Amazon Web Services** such as **EC2**, **Elastic Beanstalk**, **RDS**, **Route 53** and **S3**.
     - I feel good about now being a meaningful driver of their mother company's less negative net profit
+    
+    <br>
+    
 - Built Booth's
 [**Machine Learning course website**](http://chicagoboothml.github.io/MachineLearning_Fall2015), and
+
 - Built this very **_MBALearnsToCode.me_** website!
 
 This year's tentative learning deliverables include:
@@ -588,7 +597,7 @@ This year's tentative learning deliverables include:
 
 ## Road-tripping my domestic bosses to some worthwhile places
 
-What is better to make a good year complete than a bunch of nice photos
+What's better to make a good year complete than a bunch of nice photos
 harvested through thousands of miles of American roads through such wondrous places as:
 
 
@@ -730,7 +739,7 @@ this gem of a photo taken by **Sarah** at Mirror Lake, Yosemite:
 
 ![](MirrorLake.jpg)
 
-... which won **_PhotoBooth_**'s \*\*\***First Prize**\*\*\* for the its Winter Holiday contest:
+... which won **_PhotoBooth_**'s \*\*\***First Prize**\*\*\* in its Winter Holiday contest:
 
 ![](MirrorLake_PhotoBooth.png)
 
