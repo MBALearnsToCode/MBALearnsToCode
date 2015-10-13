@@ -373,7 +373,7 @@ becoming effective business executives in our subsequent careers when we would i
 advanced Data Analytics and technologies powered by Machine Learning algorithms.
 
 We had a couple of further follow-up brain-storming discussions, roping in my fellow Booth MBA
-[**Juan Yrigoyen**](http://www.linkedin.com/in/jyrigoyen) _(data fanatic and summer SQL-abuser at Amazon)_
+[**Juan Yrigoyen**](http://www.linkedin.com/in/jyrigoyen) _(data fanatic and bad-ass summer SQL-abuser at Amazon)_
 and then one fine day in Spring 2015, Mladen informed us that he had successfully worked his magic
 within what is a very open, progressive and innovative Chicago Booth curriculum-planning system,
 and <span style="background-color: #FFFF00"> **there'd indeed be a Machine Learning course
@@ -395,7 +395,7 @@ Mladen and I labored over the summer to build this
 [**shiny website for the course**](http://chicagoboothml.github.io/MachineLearning_Fall2015),
 and we started rocking-and-rolling at **Eight-Thirty AM, Today, September the Twenty-Forth, Twenty-Fifteen**!
 
-_Picture from D-Day:_
+_Photos from D-Day:_
 
 ![](MLclass_McCulloch.png)
 ![](MLclass_slide.png)
@@ -431,8 +431,8 @@ because my part-time role kept getting extended subsequently, all the way until 
 Working at a fast-growing start-up was like nothing I'd ever done.
 When I started in late November, the company was a few months old and had over two dozen employees.
 I joined **Mike Horrell** and **Zac Schaefer**, Stats PhD and MSc from UChicago,
-in the initial Data Science setup. We quickly found ourselves swimming in seas of real-world,
-not-so-pretty to outright-nasty data sets transmitted from a an overwhelming number of industrial sensors
+in the initial Data Science setup. We quickly found ourselves swimming in oceans of real-world,
+not-so-pretty to outright-nasty data sets transmitted from an overwhelming number of industrial sensors
 measuring all thinkable kinds of temperatures, pressures, fuel-consumption rates, payload weights,
 throttle power, wheel rotational speeds, oil and water and coolant levels, chemical levels in liquids,
 _etc. etc. etc._, from mammoth-sized locomotives and mining trucks built by Caterpillar Inc., Uptake's first client. 
@@ -451,7 +451,7 @@ The story goes that **some trucks are so so gigantic** (much more than the one s
 **that they even have in-built washrooms** &ndash;
 because by the time you manage to walk out of one of those trucks
 keeping fully compliant with proper industrial safety rules,
-your urgent piece of "business" will be very much done.
+your urgent piece of "business" would be very much done.
 Also, by the way, when those wheels roll, be very sure to keep good distance!!_
 
 ![](CATMiningTruck.jpg)
@@ -463,7 +463,7 @@ All kinds of theory that I'd acquired through school, through online courses, _e
 I was no longer doing a piece of homework for a good grade, but wrestling with real, messy data
 and trying to get the best possible predictions and recommendations out of those data
 in an acceptable live run-time to enable mechanical engineers on the ground
-to make informed and timely operating decisions. The **cost, in terms of unplanned expenses and lost business,
+to make informed and timely operational decisions. The **cost, in terms of unplanned expenses and lost business,
 of a big piece of machinery not getting maintained when it should**, or conversely,
 **getting idled for maintenance when it is actually healthy**, stands in the order of
 **hundreds of thousands of dollars per asset, per time**!
@@ -558,7 +558,7 @@ I now look back to my one year's worth of output of digital nothings with a (pai
 
 Among many other coding activities, I have:
 
-- Been building a dozen Machine Learning and related Python programming packages on the Python Package Index (PyPI),
+- Been building **a dozen Machine Learning and related Python programming packages** on the Python Package Index (PyPI),
 
 - Through Booth's **_App Development_** course, acquired super-essential
 **HTML**, **CSS** and **SQL databasing** skills,
@@ -574,7 +574,7 @@ Among many other coding activities, I have:
                          to the point I'd have to sell my clothes and get kicked out by my family                 
                          <br>
                          
-- Deepened by relationship with &ndash; _i.e., digging deeper into my pocket to pay for_ &ndash;
+- Deepened by relationship with &ndash; _i.e., am digging deeper into my pocket to pay for_ &ndash;
 **Amazon Web Services** such as **EC2**, **Elastic Beanstalk**, **RDS**, **Route 53** and **S3**.
     - I feel good about now being a meaningful driver of their mother company's less negative net profit
     
@@ -723,6 +723,7 @@ _(lots of sardines & posh mansions)_
 
 ![](YellowstoneGrandPrismaticSpring.jpg)
 ![](YellowstoneMammothHotSprings.jpg)
+![](Yellowstone_OldFaithful.jpg)
 
 
 <a name="Glacier"></a>
