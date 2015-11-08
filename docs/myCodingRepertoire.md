@@ -54,7 +54,6 @@
             </figure>
         </div>
         
-        <!--
         <div class="col-sm-1">
             <figure>
                 <a href="https://spark.apache.org"><img src="http://spark.apache.org/images/spark-logo.png" class="repertoire-image"></a>
@@ -68,7 +67,6 @@
                 <figcaption><a href="https://www.elastic.co/products/elasticsearch"><b>Elastic Search</b></a></figcaption>
             </figure>
         </div>
-        -->
         
     </div>
                         
