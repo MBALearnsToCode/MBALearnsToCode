@@ -24,6 +24,13 @@
         <!--
         <div class="col-sm-1">
            <figure>
+               <a href="http://www.scala-lang.org"><img src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" class="repertoire-image"></a>
+               <figcaption><a href="http://www.scala-lang.org"><b>Scala</b></a></figcaption>
+           </figure>
+        </div>
+
+        <div class="col-sm-1">
+           <figure>
                <a href="http://julialang.org"><img src="https://avatars0.githubusercontent.com/u/743164?v=3&s=400" class="repertoire-image"></a>
                <figcaption><a href="http://julialang.org"><b>Julia</b></a></figcaption>
            </figure>
@@ -39,20 +46,6 @@
                 </figcaption>
             </figure>
         </div>
-                    
-        <div class="col-sm-1">
-            <figure>
-                <a href="https://www.postgresql.org"><img src="http://ingest.tips/wp-content/uploads/2015/04/postgresql-logo.png" class="repertoire-image"></a>
-                <figcaption><a href="https://www.postgresql.org"><b>SQL</b></a></figcaption>
-            </figure>
-        </div>  
-                
-        <div class="col-sm-1">
-            <figure>
-                <a href="http://deeplearning.net/software/theano"><img src="http://devblogs.nvidia.com/parallelforall/wp-content/uploads/sites/3/2015/05/theano_logo_allblue_179x115-179x115.png" class="repertoire-image"></a>
-                <figcaption><a href="http://deeplearning.net/software/theano"><b>Theano</b></a></figcaption>
-            </figure>
-        </div>
         
         <div class="col-sm-1">
             <figure>
@@ -60,7 +53,28 @@
                 <figcaption><a href="https://spark.apache.org"><b>Apache Spark</b></a></figcaption>
             </figure>
         </div>
-        
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="https://hive.apache.org"><img src="http://hortonworks.com/wp-content/uploads/2013/05/hive_logo.png" class="repertoire-image"></a>
+                <figcaption><a href="https://hive.apache.org"><b>Apache Hive</b></a></figcaption>
+            </figure>
+        </div>
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="https://www.postgresql.org"><img src="http://ingest.tips/wp-content/uploads/2015/04/postgresql-logo.png" class="repertoire-image"></a>
+                <figcaption><a href="https://www.postgresql.org"><b>SQL</b></a></figcaption>
+            </figure>
+        </div>  
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="http://deeplearning.net/software/theano"><img src="http://devblogs.nvidia.com/parallelforall/wp-content/uploads/sites/3/2015/05/theano_logo_allblue_179x115-179x115.png" class="repertoire-image"></a>
+                <figcaption><a href="http://deeplearning.net/software/theano"><b>Theano</b></a></figcaption>
+            </figure>
+        </div>
+                        
         <div class="col-sm-1">
             <figure>
                 <a href="https://www.elastic.co/products/elasticsearch"><img src="https://avatars0.githubusercontent.com/u/6764390?v=3&s=400" class="repertoire-image"></a>
@@ -141,6 +155,13 @@
         
         <div class="col-sm-1">
             <figure>
+                <a href="https://aws.amazon.com/elasticmapreduce"><img src="http://cloudacademy.com/blog/wp-content/uploads/2015/04/elastic-mapreduce.jpg" class="repertoire-image"></a>
+                <figcaption><a href="https://aws.amazon.com/elasticmapreduce"><b>Elastic MapReduce</b> (<b>EMR</b>)</a></figcaption>
+            </figure>
+        </div>        
+        
+        <div class="col-sm-1">
+            <figure>
                 <a href="https://aws.amazon.com/rds"><img src="https://clouda-assets.s3.amazonaws.com/upload/54d0e46ad287c266042be611.png?1422976107" class="repertoire-image"></a>
                 <figcaption><a href="https://aws.amazon.com/rds"><b>Relational Database Service</b> (<b>RDS</b>)</a></figcaption>
             </figure>
@@ -193,6 +214,34 @@
             <figure>
                 <a href="http://bokeh.pydata.org"><img src="http://loganathomas.com/_include/img/profile/bokehicon.svg" class="repertoire-image"></a>
                 <figcaption><a href="http://bokeh.pydata.org"><b>Bokeh</b></a></figcaption>
+            </figure>
+        </div>
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="http://ggplot2.org"><img src="http://surf8.blue/wordpress/wp-content/uploads/2015/02/ggplot2-official-hexbin-logo.png" class="repertoire-image"></a>
+                <figcaption><a href="http://ggplot2.org"><b>GGplot</b></a></figcaption>
+            </figure>
+        </div>                                 
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="http://matplotlib.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2000px-Created_with_Matplotlib-logo.svg.png" class="repertoire-image"></a>
+                <figcaption><a href="http://matplotlib.org"><b>MatPlotLib</b></a></figcaption>
+            </figure>
+        </div>                                                                  
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="http://stanford.edu/~mwaskom/software/seaborn"><img src="http://geophysik.uni-muenchen.de/~krischer/___bla___/Seaborn.docset/Contents/Resources/Documents/stanford.edu/_mwaskom/software/seaborn/_static/violinplots_thumb.png" class="repertoire-image"></a>
+                <figcaption><a href="http://stanford.edu/~mwaskom/software/seaborn"><b>Seaborn</b></a></figcaption>
+            </figure>
+        </div>                                                                                                   
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="http://www.tableau.com"><img src="http://dragon.consulting/wp-content/uploads/2014/09/tableaulogo.gif" class="repertoire-image"></a>
+                <figcaption><a href="http://www.tableau.com"><b>Tableau</b></a></figcaption>
             </figure>
         </div>
                                  
@@ -294,10 +343,24 @@
     
         <div class="col-sm-1">
             <figure>
-                <a href="https://www.jetbrains.com/idea"><img src="http://www.macupdate.com/images/icons256/30563.png" class="repertoire-image"></a>
+                <a href="https://www.jetbrains.com/idea"><img src="https://confluence.jetbrains.com/download/attachments/10818/IDEADEV?version=6&modificationDate=1449747979866&api=v2"></a>
                 <figcaption><a href="https://www.jetbrains.com/idea"><b>JetBrains IntelliJ IDEA</b></a></figcaption>
             </figure>
         </div>
+        
+        <div class="col-sm-1">
+            <figure>
+                <a href="http://jupyter.org"><img src="https://avatars3.githubusercontent.com/u/7388996?v=3&s=200" class="repertoire-image"></a>
+                <figcaption><a href="http://jupyter.org"><b>Jupyter</b></a></figcaption>
+            </figure>
+        </div>
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="http://beakernotebook.com"><img src="http://www.startupblink.com/startup/logo/222808.jpg" class="repertoire-image"></a>
+                <figcaption><a href="http://beakernotebook.com/"><b>Beaker</b></a></figcaption>
+            </figure>
+        </div>        
         
         <div class="col-sm-1">
             <figure>

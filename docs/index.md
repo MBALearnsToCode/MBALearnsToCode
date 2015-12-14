@@ -22,7 +22,7 @@ good_deeds=         ["taught Machine Learning to Booth MBA friends",
                      "co-founded Chicago Booth Analytics Club",
                      
                      "constructed Data Science Learning Resources Catalog
-                        (tinyurl.com/ChicagoBoothAnalytics-DataSci)",
+                        (github.com/ChicagoBoothAnalytics/site/wiki)",
                         
                      "coding a dozen Machine Learning / A.I. / Robotics packages
                         on GitHub, BitBucket & Python Package Index (PyPI)",
