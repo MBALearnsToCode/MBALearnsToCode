@@ -39,9 +39,10 @@ and general Data Science and Computer Science
     - A highly practical [**App Development**](#BoothAppDev) course
 
 - Meeting some [**world-beating Computer Scientists / Statisticians**](#MeetingFamousComputerScientistsAndStatisticians)
-    - [**Geoff Hinton**](#GeoffHinton) of UToronto / Google
-    - [**John Lafferty**](#JohnLafferty) of our own dear UChicago
-    - [**Mike Jordan**](#MikeJordan) of UC Berkeley
+    - [__Geoff Hinton__](#GeoffHinton) of UToronto / Google
+    - [__Yoshua Bengio__](#YoshuaBengio) of UMontréal
+    - [__John Lafferty__](#JohnLafferty) of our own dear UChicago
+    - [__Mike Jordan__](#MikeJordan) of UC Berkeley
     
 - My work in [**all things Machine Learning**](#AllThingsMachineLearning)
     - [**Trial Machine Learning classes**](#TrialMachineLearningClasses) for fellow Booth MBAs
@@ -257,7 +258,7 @@ producing apps to track and analyze credit-card spends or to remind one to dry-c
 Bumping into world-famous quant people at UChicago is as easy as seeing movie stars walking around in Hollywood.
 I have so far met:
 
-- <a name="GeoffHinton">[**GEOFF HINTON**](http://en.wikipedia.org/wiki/Geoffrey_Hinton)</a>,
+- <a name="GeoffHinton">[__GEOFF HINTON__](http://en.wikipedia.org/wiki/Geoffrey_Hinton)</a>,
 of UToronto and Google, a towering Machine Learning / A.I. giant of our time and one of the chieftains of the
 [Deep Learning](http://en.wikipedia.org/wiki/Deep_learning) "[Canadian Mafia](http://recode.net/2015/07/15/ai-conspiracy-the-scientists-behind-deep-learning)".
 I've met him not just once, but **thrice**,
@@ -273,7 +274,11 @@ I should really pay to sit there. But I think he doesn't hate me, or care enough
     
     ![](HintonLecture.png)
 
-- <a name="JohnLafferty">[**JOHN LAFFERTY**](http://en.wikipedia.org/wiki/John_D._Lafferty)</a>,
+- <a name="YoshuaBengio">[__YOSHUA BENGIO__](https://en.wikipedia.org/wiki/Yoshua_Bengio)</a>, of UMontréal, another Deep Learning Mafia chieftain alongside Hinton. I like him a tad better than I do Hinton, as Bengio seems a much more intuitive teacher, skilled at exposing beautiful insights behind very complex math.
+
+    ![](YoshuaBengio.png)
+
+- <a name="JohnLafferty">[__JOHN LAFFERTY__](http://en.wikipedia.org/wiki/John_D._Lafferty)</a>,
 who founded the world's first Machine Learning department at Carnegie Mellon,
 and then joined UChicago &ndash; _with an O.K.-plus moving package, for sure_ &ndash; to make us great.
 You'll find him really gentle, approachable, fatherly and utterly likeable,
@@ -283,7 +288,7 @@ his signature course **_Machine Learning & Large-Scale Data Analysis_** invariab
 diverse, rock-concert-like following, with students sitting elbow-to-elbow on chairs,
 more students sitting on the floor, and yet more students peeping from outside the door...
 
-- <a name="MikeJordan">[**MICHAEL JORDAN**](http://en.wikipedia.org/wiki/Michael_I._Jordan)</a>,
+- <a name="MikeJordan">[__MICHAEL JORDAN__](http://en.wikipedia.org/wiki/Michael_I._Jordan)</a>,
 not the Chicago Bulls basketballer but rather the UC Berkeley machine-learner.
 He came to give a guest lecture on some highly performant algorithms to deal with really big data,
 in a session also fully-occupied to the firemen's discomfort.
