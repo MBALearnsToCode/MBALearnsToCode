@@ -276,7 +276,7 @@ I should really pay to sit there. But I think he doesn't hate me, or care enough
 
 - <a name="YoshuaBengio">[__YOSHUA BENGIO__](https://en.wikipedia.org/wiki/Yoshua_Bengio)</a>, of UMontréal, another Deep Learning Mafia chieftain alongside Hinton. I like him a tad better than I do Hinton, as Bengio seems a much more intuitive teacher, skilled at exposing beautiful insights behind very complex math.
 
-    ![](YoshuaBengio.png)
+    ![](YoshuaBengio.jpg)
 
 - <a name="JohnLafferty">[__JOHN LAFFERTY__](http://en.wikipedia.org/wiki/John_D._Lafferty)</a>,
 who founded the world's first Machine Learning department at Carnegie Mellon,
