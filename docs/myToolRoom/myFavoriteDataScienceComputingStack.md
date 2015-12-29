@@ -12,6 +12,8 @@ My favorite &ndash; if rather expensive &ndash; setup for large-scale Data Scien
     - [__`Spark SQL`__](http://spark.apache.org/sql) for [__`HiveQL`__](https://hive.apache.org) queries on distributed data frames / data tables; and
     - [__`Spark ML`__](http://spark.apache.org/docs/latest/ml-guide.html) for Machine Learning algorithms on distributed data frames / data tables; <br><br>
 
+- Java Database Connectivity (_"JDBC"_) drivers for common open-source database engines such as [__`MySQL`__](http://dev.mysql.com/downloads/connector/j) and [__`PostgreSQL`__](https://jdbc.postgresql.org/download.html) to allow `Spark SQL` to read data &ndash; extremely quickly! &ndash; from such databases;  
+
 - [__`Python`__ v2.7](https://www.python.org), which is integrated with `Spark` through the [__`PySpark`__](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) API;
  
 - The [__`SciPy`__](http://scipy.org) scientific computing stack with packages:
