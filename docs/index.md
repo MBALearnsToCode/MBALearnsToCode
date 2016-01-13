@@ -73,7 +73,7 @@ My <i class="fa fa-terminal"></i> [**Coding Repertoire**](myCodingRepertoire) in
 - **Matlab** / **Octave**
 - **Ruby** / **Rails**
 - **SQL**, and
-- a bunch of cloud-computing stuff such as **EC2**, **Elastic Beanstalk**, **RDS**, **Route 53** and **S3**
+- a bunch of cloud-computing stuff such as __EC2__, __Elastic Beanstalk__, __Elastic MapReduce__, __RDS__, __Route 53__ and __S3__
 by **Amazon Web Services** _(my monthly bills help Jeff B. always smile confidently to financial analysts)_.
 
 
