@@ -233,6 +233,13 @@
 
         <div class="col-sm-1">
             <figure>
+                <a href="https://plot.ly"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Plotly_Logo.png" class="repertoire-image"></a>
+                <figcaption><a href="https://plot.ly"><b>Plotly</b></a></figcaption>
+            </figure>
+        </div>
+
+        <div class="col-sm-1">
+            <figure>
                 <a href="http://stanford.edu/~mwaskom/software/seaborn"><img src="http://geophysik.uni-muenchen.de/~krischer/___bla___/Seaborn.docset/Contents/Resources/Documents/stanford.edu/_mwaskom/software/seaborn/_static/violinplots_thumb.png" class="repertoire-image"></a>
                 <figcaption><a href="http://stanford.edu/~mwaskom/software/seaborn"><b>Seaborn</b></a></figcaption>
             </figure>

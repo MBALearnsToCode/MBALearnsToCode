@@ -580,7 +580,7 @@ Among many other coding activities, I have:
                          <br>
                          
 - Deepened by relationship with &ndash; _i.e., am digging deeper into my pocket to pay for_ &ndash;
-**Amazon Web Services** such as **EC2**, **Elastic Beanstalk**, **RDS**, **Route 53** and **S3**.
+__Amazon Web Services__ such as __EC2__, __Elastic Beanstalk__, __Elastic MapReduce__, __RDS__, __Route 53__ and __S3__.
     - I feel good about now being a meaningful driver of their mother company's less negative net profit
     
     <br>

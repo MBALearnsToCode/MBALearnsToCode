@@ -31,9 +31,9 @@ good_deeds=         ["taught Machine Learning to Booth MBA friends",
                         making her life slightly more complicated,
                         but undoubtedly better, way way better"]
                         
-languages=          ["Python", "PythonDjango", "R", "Julia", "Matlab", "Octave", "SQL",
-                     "Ruby", "RubyOnRails", "LaTeX", "Markdown", "YAML", "HTML", "CSS",
-                     "Amazon Web Services (AWS)", "Pascal"]
+languages=          ["Python", "R", "Scala", "Julia", "Matlab", "Octave", "SQL", "HiveQL",
+                     "PythonDjango", "Ruby", "RubyOnRails", "HTML", "CSS",
+                     "LaTeX", "Markdown", "YAML", "Amazon Web Services (AWS)", "Pascal"]
                     +   # oh I forgot, plus human languages too, of course:
                     ["Vietnamese", "English", "Singapore English (Singlish)"]
 
