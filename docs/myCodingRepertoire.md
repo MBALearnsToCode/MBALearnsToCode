@@ -21,7 +21,6 @@
             </figure>
         </div>
         
-        <!--
         <div class="col-sm-1">
            <figure>
                <a href="http://www.scala-lang.org"><img src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" class="repertoire-image"></a>
@@ -35,7 +34,6 @@
                <figcaption><a href="http://julialang.org"><b>Julia</b></a></figcaption>
            </figure>
         </div>
-        -->
         
         <div class="col-sm-2">
             <figure>
@@ -185,24 +183,6 @@
                         
 </div>
 
-<!--
-## Other Cloud Computing
-
-<div class="container repertoire">
-
-    <div class="row">
-    
-        <div class="col-sm-1">
-            <figure>
-                <a href="https://www.heroku.com"><img src="http://blog.newrelic.com/wp-content/uploads/heroku-logo.png" class="repertoire-image"></a>
-                <figcaption><a href="https://www.heroku.com"><b>Heroku</b></a></figcaption>
-            </figure>
-        </div>
-                                 
-    </div>
-                        
-</div>
--->
 
 ## Visualization
 
