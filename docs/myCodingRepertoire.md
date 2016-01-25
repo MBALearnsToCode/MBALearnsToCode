@@ -45,6 +45,14 @@
             </figure>
         </div>
         
+    </div>
+    
+</div>
+ 
+<div class="container repertoire">
+   
+    <div class="row">
+        
         <div class="col-sm-1">
             <figure>
                 <a href="https://spark.apache.org"><img src="http://spark.apache.org/images/spark-logo.png" class="repertoire-image"></a>
@@ -65,6 +73,13 @@
                 <figcaption><a href="https://www.postgresql.org"><b>SQL</b></a></figcaption>
             </figure>
         </div>  
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="https://www.tensorflow.org/"><img src="http://www.wired.com/wp-content/uploads/2015/11/google-tensor-flow-logo-S-1024x768.jpg" class="repertoire-image"></a>
+                <figcaption><a href="https://www.tensorflow.org/"><b>TensorFlow</b></a></figcaption>
+            </figure>
+        </div>
 
         <div class="col-sm-1">
             <figure>
@@ -114,7 +129,7 @@
 
         <div class="col-sm-1">
            <figure>
-               <a href="https://www.w3.org/Style/CSS"><img src="http://grahamtylerwong.com/images/Icons/css3logo_large.png" class="repertoire-image"></a>
+               <a href="https://www.w3.org/Style/CSS"><img src="http://4.bp.blogspot.com/-jvsKPh4XVNs/VEDdOcEPlEI/AAAAAAAADX0/GtDHLMAica4/s1600/css3-shake-animation.png" class="repertoire-image"></a>
                <figcaption><a href="https://www.w3.org/Style/CSS"><b>CSS</b></a></figcaption>
            </figure>
         </div>
