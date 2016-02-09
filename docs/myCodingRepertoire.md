@@ -83,7 +83,7 @@
 
         <div class="col-sm-1">
             <figure>
-                <a href="http://deeplearning.net/software/theano"><img src="http://devblogs.nvidia.com/parallelforall/wp-content/uploads/sites/3/2015/05/theano_logo_allblue_179x115-179x115.png" class="repertoire-image"></a>
+                <a href="http://deeplearning.net/software/theano"><img src="https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2015/05/theano_logo_allblue_179x115-179x115.png" class="repertoire-image"></a>
                 <figcaption><a href="http://deeplearning.net/software/theano"><b>Theano</b></a></figcaption>
             </figure>
         </div>
