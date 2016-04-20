@@ -1,7 +1,7 @@
 # **My Coding Repertoire**
 
 
-## Machine Learning / Artificial Intelligence / Data Science / Large-Scale Computation
+## Machine Learning / Artificial Intelligence / Data Science
 
 <div class="container repertoire">
 
@@ -44,36 +44,22 @@
                 </figcaption>
             </figure>
         </div>
-        
-    </div>
-    
-</div>
- 
-<div class="container repertoire">
-   
-    <div class="row">
-        
-        <div class="col-sm-1">
-            <figure>
-                <a href="https://spark.apache.org"><img src="http://spark.apache.org/images/spark-logo.png" class="repertoire-image"></a>
-                <figcaption><a href="https://spark.apache.org"><b>Apache Spark</b></a></figcaption>
-            </figure>
-        </div>
-
-        <div class="col-sm-1">
-            <figure>
-                <a href="https://hive.apache.org"><img src="http://hortonworks.com/wp-content/uploads/2013/05/hive_logo.png" class="repertoire-image"></a>
-                <figcaption><a href="https://hive.apache.org"><b>Apache Hive</b></a></figcaption>
-            </figure>
-        </div>
 
         <div class="col-sm-1">
             <figure>
                 <a href="https://www.postgresql.org"><img src="http://ingest.tips/wp-content/uploads/2015/04/postgresql-logo.png" class="repertoire-image"></a>
                 <figcaption><a href="https://www.postgresql.org"><b>SQL</b></a></figcaption>
             </figure>
-        </div>  
+        </div>
 
+    </div>
+    
+</div>
+
+<div class="container repertoire">
+    
+    <div class="row">
+    
         <div class="col-sm-1">
             <figure>
                 <a href="https://www.tensorflow.org/"><img src="http://www.wired.com/wp-content/uploads/2015/11/google-tensor-flow-logo-S-1024x768.jpg" class="repertoire-image"></a>
@@ -100,6 +86,45 @@
 </div>
 
 
+## Large-Scale Distributed Computing
+
+<div class="container repertoire">
+   
+    <div class="row">
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="http://hadoop.apache.org"><img src="http://www.dataversity.net/wp-content/uploads/2013/05/had.jpg" class="repertoire-image"></a>
+                <figcaption><a href="http://hadoop.apache.org"><b>Apache Hadoop</b></a></figcaption>
+            </figure>
+        </div>
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="https://spark.apache.org"><img src="http://spark.apache.org/images/spark-logo.png" class="repertoire-image"></a>
+                <figcaption><a href="https://spark.apache.org"><b>Apache Spark</b></a></figcaption>
+            </figure>
+        </div>
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="https://hbase.apache.org"><img src="https://hbase.apache.org/images/jumping-orca_rotated_25percent.png" class="repertoire-image"></a>
+                <figcaption><a href="https://hbase.apache.org"><b>Apache HBase</b></a></figcaption>
+            </figure>
+        </div>
+
+        <div class="col-sm-1">
+            <figure>
+                <a href="https://hive.apache.org"><img src="http://hortonworks.com/wp-content/uploads/2013/05/hive_logo.png" class="repertoire-image"></a>
+                <figcaption><a href="https://hive.apache.org"><b>Apache Hive</b></a></figcaption>
+            </figure>
+        </div>
+
+    </div>
+
+</div>
+ 
+
 ## App Development
 
 <div class="container repertoire">
@@ -115,7 +140,7 @@
         
         <div class="col-sm-1">
             <figure>
-                <a href="http://rubyonrails.org"><img src="http://d1ohp0h9n9u652.cloudfront.net/assets/community/rails-11ede1588f0991ea936b30345f01b4aa9ee5d0eccc11c34fa0706acc70b32d9f.png" class="repertoire-image"></a>
+                <a href="http://rubyonrails.org"><img src="http://www.webascender.com/portals/0/Images/Services/logo-rails.jpg" class="repertoire-image"></a>
                 <figcaption><a href="http://rubyonrails.org"><b>Ruby-on-Rails</b></a></figcaption>
             </figure>
         </div>
@@ -150,7 +175,7 @@
 
 <div class="container repertoire">
 
-    <div class="row">
+    <div class="row">   
     
         <div class="col-sm-1">
             <figure>
@@ -182,7 +207,7 @@
 
         <div class="col-sm-1">
            <figure>
-               <a href="https://aws.amazon.com/route53"><img src="http://www.boundary.com/wp-content/themes/boundary2014/images/integrations/aws-route-53.png" class="repertoire-image"></a>
+               <a href="https://aws.amazon.com/route53"><img src="https://qph.is.quoracdn.net/main-thumb-t-29836-200-5lbQZBD9GYe6L3k5a5sfYDCemw8NILho.jpeg" class="repertoire-image"></a>
                <figcaption><a href="https://aws.amazon.com/route53"><b>Route 53</b></a></figcaption>
            </figure>
         </div>
